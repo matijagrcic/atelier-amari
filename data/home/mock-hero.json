@@ -1,0 +1,27 @@
+{
+  "eyebrow": "Ceramic atelier in Dubrovnik",
+  "headline": "Quiet objects for slow rituals and everyday beauty.",
+  "description": "We craft small-batch vessels, tableware, and sculptural pieces from local clay. Each object is shaped, fired, and glazed by hand in our sunlit studio.",
+  "primaryAction": {
+    "label": "Explore collections",
+    "href": "#collections"
+  },
+  "secondaryAction": {
+    "label": "See our process",
+    "href": "#process"
+  },
+  "highlights": [
+    "Small-batch releases",
+    "Food-safe glazes",
+    "Locally sourced clay"
+  ],
+  "featureCard": {
+    "title": "Spring Drop 02",
+    "subtitle": "18 pieces",
+    "description": "Porcelain bowls, textured mugs, and serving platters inspired by Adriatic stone and sea foam.",
+    "image": {
+      "src": "/images/home/hero-collection.svg",
+      "alt": "A curated set of handmade bowls and cups with matte glaze."
+    }
+  }
+}

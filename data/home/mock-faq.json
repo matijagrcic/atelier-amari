@@ -1,0 +1,23 @@
+{
+  "sectionId": "faq",
+  "eyebrow": "Frequently asked questions",
+  "headline": "Shipping, care, and custom orders",
+  "items": [
+    {
+      "question": "Are your ceramics dishwasher safe?",
+      "answer": "Yes. All tableware is fired for durability and is dishwasher safe, though hand washing helps preserve surface finish over many years."
+    },
+    {
+      "question": "Do you make custom restaurant sets?",
+      "answer": "Yes. We collaborate on shape, size, and glaze direction for hospitality projects. Lead time depends on quantity and testing rounds."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "In-stock pieces usually ship within 3-5 business days. International delivery windows vary by destination and customs handling."
+    },
+    {
+      "question": "Can I visit the studio?",
+      "answer": "Studio visits are available by appointment. We host small weekly slots where you can view current and upcoming work."
+    }
+  ]
+}

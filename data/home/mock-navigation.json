@@ -1,0 +1,14 @@
+{
+  "atelierName": "Atelier Amari",
+  "tagline": "Hand-thrown stoneware",
+  "links": [
+    { "label": "Collections", "href": "#collections" },
+    { "label": "Process", "href": "#process" },
+    { "label": "Testimonials", "href": "#testimonials" },
+    { "label": "FAQ", "href": "#faq" }
+  ],
+  "primaryAction": {
+    "label": "Book a studio visit",
+    "href": "#cta"
+  }
+}

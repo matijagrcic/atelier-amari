@@ -1,0 +1,37 @@
+{
+  "sectionId": "process",
+  "eyebrow": "Studio process",
+  "headline": "From clay body to final kiln",
+  "gallery": [
+    {
+      "src": "/images/home/process-throwing.svg",
+      "alt": "Hands shaping clay on a pottery wheel."
+    },
+    {
+      "src": "/images/home/process-glazing.svg",
+      "alt": "Glaze being brushed onto a ceramic bowl."
+    },
+    {
+      "src": "/images/home/process-kiln.svg",
+      "alt": "Kiln shelves with pieces ready to fire."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Forming",
+      "description": "Each object starts on the wheel or in slab construction, then rests to leather-hard."
+    },
+    {
+      "title": "Trimming and bisque",
+      "description": "We refine foot rings, balance weight, and perform the first low-temperature firing."
+    },
+    {
+      "title": "Glazing",
+      "description": "Glaze is layered by dip and brush to create depth while preserving tactility."
+    },
+    {
+      "title": "High-fire finish",
+      "description": "Final firing vitrifies the piece, locking in durability and a distinct surface response."
+    }
+  ]
+}

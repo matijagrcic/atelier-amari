@@ -1,0 +1,34 @@
+{
+  "sectionId": "testimonials",
+  "eyebrow": "Collectors and chefs",
+  "headline": "How our pieces live in real spaces",
+  "items": [
+    {
+      "quote": "The glaze depth is incredible in evening light. Our guests ask about the bowls every time.",
+      "name": "Ivana K.",
+      "role": "Private collector",
+      "portraitImage": {
+        "src": "/images/home/portrait-ivana.svg",
+        "alt": "Portrait of Ivana K."
+      }
+    },
+    {
+      "quote": "We use the serving platters nightly. They are sturdy, elegant, and photograph beautifully.",
+      "name": "Luka M.",
+      "role": "Chef, Konoba Orsan",
+      "portraitImage": {
+        "src": "/images/home/portrait-luka.svg",
+        "alt": "Portrait of Luka M."
+      }
+    },
+    {
+      "quote": "I ordered a full table set for our apartment and every piece feels intentional.",
+      "name": "Marta B.",
+      "role": "Interior stylist",
+      "portraitImage": {
+        "src": "/images/home/portrait-marta.svg",
+        "alt": "Portrait of Marta B."
+      }
+    }
+  ]
+}

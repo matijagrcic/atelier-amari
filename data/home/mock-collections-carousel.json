@@ -1,0 +1,48 @@
+{
+  "sectionId": "collections",
+  "eyebrow": "Collections",
+  "headline": "Made in series, finished by hand",
+  "description": "Each collection is developed around a tactile story. Surfaces vary subtly from piece to piece, so no two objects are identical.",
+  "items": [
+    {
+      "name": "Coastal Stone",
+      "material": "Speckled stoneware",
+      "description": "Minimal silhouettes with carved rims and ash-white glaze.",
+      "pieceCount": "12 pieces",
+      "image": {
+        "src": "/images/home/collection-coastal.svg",
+        "alt": "Stoneware bowls with speckled clay and soft matte glaze."
+      }
+    },
+    {
+      "name": "Evening Clay",
+      "material": "Iron-rich clay body",
+      "description": "Low, warm forms designed for shared meals and long dinners.",
+      "pieceCount": "16 pieces",
+      "image": {
+        "src": "/images/home/collection-evening.svg",
+        "alt": "Warm clay plates stacked with subtle tonal glazes."
+      }
+    },
+    {
+      "name": "Salt Air",
+      "material": "Porcelain blend",
+      "description": "Thin-walled cups and bowls with soft, translucent glaze depth.",
+      "pieceCount": "10 pieces",
+      "image": {
+        "src": "/images/home/collection-salt.svg",
+        "alt": "Porcelain cups with translucent glaze and clean silhouettes."
+      }
+    },
+    {
+      "name": "Studio Archive",
+      "material": "Mixed reclaimed clay",
+      "description": "One-off experimental objects from glaze and kiln tests.",
+      "pieceCount": "Limited originals",
+      "image": {
+        "src": "/images/home/collection-archive.svg",
+        "alt": "Experimental ceramic pieces with layered glaze textures."
+      }
+    }
+  ]
+}

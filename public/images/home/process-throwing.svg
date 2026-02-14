@@ -1,0 +1,14 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Process throwing placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0e6da" />
+      <stop offset="1" stop-color="#c6a98e" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)" />
+  <ellipse cx="400" cy="420" rx="220" ry="90" fill="#b48e72" opacity="0.55" />
+  <rect x="300" y="160" width="200" height="220" rx="60" fill="#d6b59a" />
+  <ellipse cx="400" cy="240" rx="90" ry="40" fill="#f4ede6" opacity="0.7" />
+  <rect x="180" y="180" width="120" height="80" rx="40" fill="#e6d0bf" />
+  <rect x="500" y="180" width="120" height="80" rx="40" fill="#e6d0bf" />
+</svg>
