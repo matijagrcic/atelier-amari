@@ -1,0 +1,23 @@
+{
+  "sectionId": "gift-card-faq",
+  "eyebrow": "FAQ",
+  "headline": "Everything you need to know before gifting.",
+  "description": "Need a custom amount or company gifting support? Reach out and we can tailor it.",
+  "items": [
+    {
+      "id": "expiry",
+      "question": "How long are gift cards valid?",
+      "answer": "Gift cards are valid for 12 months from purchase date."
+    },
+    {
+      "id": "partial-use",
+      "question": "Can recipients use only part of the value?",
+      "answer": "Yes. Remaining credit stays available for future purchases until expiry."
+    },
+    {
+      "id": "transfer",
+      "question": "Can a gift card be used by someone else?",
+      "answer": "Yes, gift cards are transferable unless purchased through a restricted corporate package."
+    }
+  ]
+}

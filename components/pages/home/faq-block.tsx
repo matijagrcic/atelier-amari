@@ -5,12 +5,15 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion"
+import { Button } from "@/components/ui/button"
 
 type FaqData = {
   sectionId: string
   eyebrow: string
   headline: string
   items: Array<{ question: string; answer: string }>
+  primaryAction: { label: string; href: string }
+  secondaryAction: { label: string; href: string }
 }
 
 export function FaqBlock() {
@@ -39,6 +42,15 @@ export function FaqBlock() {
           </AccordionItem>
         ))}
       </Accordion>
+
+      <div className="mt-6 flex flex-wrap gap-3">
+        <Button asChild className="rounded-full">
+          <a href={data.primaryAction.href}>{data.primaryAction.label}</a>
+        </Button>
+        <Button asChild variant="outline" className="rounded-full">
+          <a href={data.secondaryAction.href}>{data.secondaryAction.label}</a>
+        </Button>
+      </div>
     </section>
   )
 }

@@ -1,0 +1,29 @@
+{
+  "sectionId": "gift-card-options",
+  "eyebrow": "Select a format",
+  "headline": "Flexible gift options for every kind of ceramic lover.",
+  "description": "Each gift includes a personalized note and 12-month validity.",
+  "options": [
+    {
+      "id": "digital-credit",
+      "title": "Digital Shop Credit",
+      "value": "EUR 50 - EUR 300",
+      "description": "Ideal for tableware and seasonal drops from our online collection.",
+      "action": { "label": "Buy digital card", "href": "/gift-card" }
+    },
+    {
+      "id": "workshop-pass",
+      "title": "Workshop Pass",
+      "value": "EUR 120",
+      "description": "A seat in any beginner workshop, including materials and firing.",
+      "action": { "label": "Gift a class", "href": "/workshops-and-classes" }
+    },
+    {
+      "id": "atelier-experience",
+      "title": "Atelier Experience",
+      "value": "EUR 240",
+      "description": "A premium private making session for two, with studio hospitality.",
+      "action": { "label": "Gift experience", "href": "/private-events" }
+    }
+  ]
+}

@@ -2,12 +2,21 @@
   "sectionId": "cta",
   "headline": "Bring a calmer material language to your table.",
   "description": "Join our release notes for new drops, studio events, and custom commission openings.",
-  "primaryAction": {
-    "label": "Join the release list",
-    "href": "#"
-  },
-  "secondaryAction": {
-    "label": "Request custom work",
-    "href": "#"
-  }
+  "actions": [
+    {
+      "label": "Request custom work",
+      "href": "/commissions",
+      "variant": "primary"
+    },
+    {
+      "label": "Workshops & classes",
+      "href": "/workshops-and-classes",
+      "variant": "secondary"
+    },
+    {
+      "label": "Private events",
+      "href": "/private-events",
+      "variant": "secondary"
+    }
+  ]
 }

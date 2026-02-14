@@ -1,0 +1,26 @@
+{
+  "sectionId": "about-studio",
+  "eyebrow": "Inside the Studio",
+  "headline": "Tools, hands, and kilns in daily motion.",
+  "description": "A glimpse into how pieces move from raw clay to finished form.",
+  "gallery": [
+    {
+      "id": "throwing",
+      "src": "/images/home/process-throwing.svg",
+      "alt": "Potter shaping clay on the wheel",
+      "caption": "Throwing and proportion studies"
+    },
+    {
+      "id": "glazing",
+      "src": "/images/home/process-glazing.svg",
+      "alt": "Ceramic glazing preparation and application",
+      "caption": "Layered glaze experimentation"
+    },
+    {
+      "id": "kiln",
+      "src": "/images/home/process-kiln.svg",
+      "alt": "Ceramic pieces inside kiln process",
+      "caption": "Kiln cycles and finish checks"
+    }
+  ]
+}

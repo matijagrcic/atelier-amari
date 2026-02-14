@@ -1,0 +1,20 @@
+{
+  "sectionId": "contact-cta-rail",
+  "eyebrow": "Quick Paths",
+  "headline": "Need something specific? Start here.",
+  "description": "Jump directly to the right flow depending on your intent.",
+  "actions": [
+    {
+      "id": "commission-path",
+      "title": "Commission a Custom Piece",
+      "description": "Share your idea, quantity, and timing for custom ceramic work.",
+      "action": { "label": "Open commissions", "href": "/commissions" }
+    },
+    {
+      "id": "shop-path",
+      "title": "Browse the Shop",
+      "description": "View currently available collections and ready-to-ship pieces.",
+      "action": { "label": "Go to shop", "href": "/shop" }
+    }
+  ]
+}

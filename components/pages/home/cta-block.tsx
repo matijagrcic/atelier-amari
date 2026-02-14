@@ -5,8 +5,11 @@ type CtaData = {
   sectionId: string
   headline: string
   description: string
-  primaryAction: { label: string; href: string }
-  secondaryAction: { label: string; href: string }
+  actions: Array<{
+    label: string
+    href: string
+    variant: "primary" | "secondary"
+  }>
 }
 
 export function CtaBlock() {
@@ -22,12 +25,26 @@ export function CtaBlock() {
           {data.description}
         </p>
         <div className="flex flex-wrap gap-3 pt-7">
-          <Button asChild className="rounded-full bg-foreground text-background hover:bg-foreground/90">
-            <a href={data.primaryAction.href}>{data.primaryAction.label}</a>
-          </Button>
-          <Button asChild variant="outline" className="rounded-full border-foreground/30 bg-transparent">
-            <a href={data.secondaryAction.href}>{data.secondaryAction.label}</a>
-          </Button>
+          {data.actions.map((action) =>
+            action.variant === "primary" ? (
+              <Button
+                key={action.href}
+                asChild
+                className="rounded-full bg-foreground text-background hover:bg-foreground/90"
+              >
+                <a href={action.href}>{action.label}</a>
+              </Button>
+            ) : (
+              <Button
+                key={action.href}
+                asChild
+                variant="outline"
+                className="rounded-full border-foreground/30 bg-transparent"
+              >
+                <a href={action.href}>{action.label}</a>
+              </Button>
+            ),
+          )}
         </div>
       </div>
     </section>

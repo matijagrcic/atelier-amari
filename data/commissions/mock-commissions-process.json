@@ -1,0 +1,23 @@
+{
+  "sectionId": "commissions-process",
+  "eyebrow": "Process",
+  "headline": "Designed collaboratively, produced with studio precision.",
+  "description": "A practical and transparent flow from idea to delivery.",
+  "steps": [
+    {
+      "id": "brief",
+      "title": "Discovery Brief",
+      "description": "We align on use case, dimensions, finish direction, and timeline."
+    },
+    {
+      "id": "prototype",
+      "title": "Prototype + Glaze Tests",
+      "description": "We share sample forms and finish studies for approval."
+    },
+    {
+      "id": "production",
+      "title": "Production + Delivery",
+      "description": "Approved designs move into batch production, firing, and final hand-finish."
+    }
+  ]
+}

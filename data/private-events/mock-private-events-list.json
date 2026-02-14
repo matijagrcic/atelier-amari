@@ -1,0 +1,32 @@
+{
+  "sectionId": "private-events-list",
+  "eyebrow": "Formats",
+  "headline": "Three event formats, tailored to your occasion.",
+  "description": "We adapt content for beginners and experienced makers alike.",
+  "items": [
+    {
+      "id": "team-session",
+      "title": "Team Building Session",
+      "groupSize": "8-18 guests",
+      "duration": "2.5 hours",
+      "description": "A collaborative throwing and hand-building session focused on play and shared outcomes.",
+      "includes": ["Clay + tools", "Firing", "Light refreshments"]
+    },
+    {
+      "id": "celebration-event",
+      "title": "Celebration Atelier",
+      "groupSize": "6-14 guests",
+      "duration": "3 hours",
+      "description": "An elevated birthday or anniversary format with curated table styling and keepsake pieces.",
+      "includes": ["Host guidance", "Styling setup", "Keepsake glazing"]
+    },
+    {
+      "id": "brand-gathering",
+      "title": "Brand Gathering",
+      "groupSize": "10-24 guests",
+      "duration": "3-4 hours",
+      "description": "A story-driven session for launches and communities, with optional gifting add-ons.",
+      "includes": ["Custom run-of-show", "Brand moments", "Photo-friendly setup"]
+    }
+  ]
+}

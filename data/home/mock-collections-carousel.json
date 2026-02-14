@@ -3,6 +3,14 @@
   "eyebrow": "Collections",
   "headline": "Made in series, finished by hand",
   "description": "Each collection is developed around a tactile story. Surfaces vary subtly from piece to piece, so no two objects are identical.",
+  "primaryAction": {
+    "label": "Shop all pieces",
+    "href": "/shop"
+  },
+  "secondaryAction": {
+    "label": "Buy a gift card",
+    "href": "/gift-card"
+  },
   "items": [
     {
       "name": "Coastal Stone",

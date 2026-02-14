@@ -3,12 +3,12 @@
   "headline": "Quiet objects for slow rituals and everyday beauty.",
   "description": "We craft small-batch vessels, tableware, and sculptural pieces from local clay. Each object is shaped, fired, and glazed by hand in our sunlit studio.",
   "primaryAction": {
-    "label": "Explore collections",
-    "href": "#collections"
+    "label": "Shop the collection",
+    "href": "/shop"
   },
   "secondaryAction": {
-    "label": "See our process",
-    "href": "#process"
+    "label": "Commission a piece",
+    "href": "/commissions"
   },
   "highlights": [
     "Small-batch releases",

@@ -1,0 +1,76 @@
+{
+  "sectionId": "blog-feed",
+  "eyebrow": "Latest Articles",
+  "headline": "A modern editorial grid with curated product features.",
+  "description": "Editors can place product features exactly where they should appear between stories.",
+  "items": [
+    {
+      "id": "article-clay-bodies",
+      "type": "article",
+      "title": "Choosing Clay Bodies for Everyday Tableware",
+      "excerpt": "How density, firing temperature, and finish influence durability and feel.",
+      "publishedAt": "Jan 22, 2026",
+      "category": "Materials",
+      "href": "/blog",
+      "image": {
+        "src": "/images/home/process-throwing.svg",
+        "alt": "Clay preparation and wheel-throwing process"
+      }
+    },
+    {
+      "id": "article-kiln-schedules",
+      "type": "article",
+      "title": "Kiln Schedules: Why Slow Cooling Matters",
+      "excerpt": "The cooling phase shapes both glaze tone and long-term resilience.",
+      "publishedAt": "Jan 10, 2026",
+      "category": "Process",
+      "href": "/blog",
+      "image": {
+        "src": "/images/home/process-kiln.svg",
+        "alt": "Ceramic pieces inside kiln shelf"
+      }
+    },
+    {
+      "id": "feature-salt-drop",
+      "type": "productFeature",
+      "eyebrow": "Featured Drop",
+      "title": "Salt Glaze collection now available in the shop.",
+      "description": "Explore the latest batch with tactile mineral surfaces and soft silhouettes.",
+      "primaryAction": { "label": "Shop the drop", "href": "/shop" }
+    },
+    {
+      "id": "article-surface-studies",
+      "type": "article",
+      "title": "Surface Studies: Layering Slips and Wax Resist",
+      "excerpt": "A practical look at creating depth without losing functional performance.",
+      "publishedAt": "Dec 28, 2025",
+      "category": "Technique",
+      "href": "/blog",
+      "image": {
+        "src": "/images/home/process-glazing.svg",
+        "alt": "Glazing experiments in the studio"
+      }
+    },
+    {
+      "id": "article-hosting-ceramics",
+      "type": "article",
+      "title": "Styling Ceramics for Intimate Hosting",
+      "excerpt": "Layering neutral stoneware with seasonal textures for quiet impact.",
+      "publishedAt": "Dec 15, 2025",
+      "category": "Lifestyle",
+      "href": "/blog",
+      "image": {
+        "src": "/images/home/hero-collection.svg",
+        "alt": "Styled table with ceramic pieces"
+      }
+    },
+    {
+      "id": "feature-commission",
+      "type": "productFeature",
+      "eyebrow": "Need something specific?",
+      "title": "Commission custom tableware for your next project.",
+      "description": "From restaurant service sets to personal gifting editions, we can shape a custom run.",
+      "primaryAction": { "label": "Start a commission", "href": "/commissions" }
+    }
+  ]
+}

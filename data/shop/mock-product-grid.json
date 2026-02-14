@@ -1,0 +1,62 @@
+{
+  "sectionId": "shop-grid",
+  "eyebrow": "Featured Pieces",
+  "headline": "A refined grid of studio-made forms.",
+  "description": "Every piece is wheel-thrown or hand-built, then glazed in small batches for subtle variation.",
+  "items": [
+    {
+      "id": "shoreline-set",
+      "name": "Shoreline Dinner Set",
+      "price": "EUR 148",
+      "description": "Four dinner plates with a mineral glaze inspired by coastal stone.",
+      "category": "Tableware",
+      "image": { "src": "/images/home/collection-coastal.svg", "alt": "Blue grey ceramic dinner set" },
+      "action": { "label": "View details", "href": "/shop" }
+    },
+    {
+      "id": "evening-vase",
+      "name": "Evening Vessel",
+      "price": "EUR 92",
+      "description": "A tall vase with soft faceting and a satin black finish.",
+      "category": "Decor",
+      "image": { "src": "/images/home/collection-evening.svg", "alt": "Dark ceramic vase on pedestal" },
+      "action": { "label": "View details", "href": "/shop" }
+    },
+    {
+      "id": "salt-bowls",
+      "name": "Salt Glaze Bowl Pair",
+      "price": "EUR 64",
+      "description": "Two nesting bowls with tactile rims and a clouded salt glaze.",
+      "category": "Tableware",
+      "image": { "src": "/images/home/collection-salt.svg", "alt": "Two textured salt glazed bowls" },
+      "action": { "label": "View details", "href": "/shop" }
+    },
+    {
+      "id": "archive-cup",
+      "name": "Archive Cup Set",
+      "price": "EUR 58",
+      "description": "A pair of espresso cups from our archive studies collection.",
+      "category": "Limited",
+      "image": { "src": "/images/home/collection-archive.svg", "alt": "Pair of ceramic espresso cups" },
+      "action": { "label": "View details", "href": "/shop" }
+    },
+    {
+      "id": "hero-platter",
+      "name": "Studio Platter",
+      "price": "EUR 112",
+      "description": "Wide serving platter with a warm clay body and clear glossy interior.",
+      "category": "Hosting",
+      "image": { "src": "/images/home/hero-collection.svg", "alt": "Large serving platter in warm clay tone" },
+      "action": { "label": "View details", "href": "/shop" }
+    },
+    {
+      "id": "throwing-jar",
+      "name": "Throwing Jar",
+      "price": "EUR 76",
+      "description": "Lidded utility jar for tea, salt, or countertop essentials.",
+      "category": "Storage",
+      "image": { "src": "/images/home/process-throwing.svg", "alt": "Hand-thrown lidded ceramic jar" },
+      "action": { "label": "View details", "href": "/shop" }
+    }
+  ]
+}

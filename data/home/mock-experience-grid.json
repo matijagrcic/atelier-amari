@@ -1,0 +1,56 @@
+{
+  "sectionId": "experiences",
+  "eyebrow": "Atelier Experiences",
+  "headline": "Choose how you want to engage with the studio.",
+  "description": "From hands-on learning to custom project work, each path is crafted with the same material care and editorial finish.",
+  "items": [
+    {
+      "id": "workshops",
+      "title": "Workshops & Classes",
+      "description": "Learn wheel and hand-building techniques in guided sessions for all levels.",
+      "href": "/workshops-and-classes",
+      "badge": "Studio Learning",
+      "ctaLabel": "Join a workshop",
+      "image": {
+        "src": "/images/home/process-throwing.svg",
+        "alt": "Hands shaping clay during a workshop session."
+      }
+    },
+    {
+      "id": "private-events",
+      "title": "Private Events",
+      "description": "Host team gatherings and celebrations with a premium clay experience.",
+      "href": "/private-events",
+      "badge": "Group Events",
+      "ctaLabel": "Plan an event",
+      "image": {
+        "src": "/images/home/process-glazing.svg",
+        "alt": "Guests glazing ceramics in an atelier event setting."
+      }
+    },
+    {
+      "id": "gift-card",
+      "title": "Gift Card",
+      "description": "Give access to classes, products, and bespoke studio moments.",
+      "href": "/gift-card",
+      "badge": "Gifting",
+      "ctaLabel": "Gift the atelier",
+      "image": {
+        "src": "/images/home/collection-evening.svg",
+        "alt": "Curated ceramic pieces suitable as a gift experience."
+      }
+    },
+    {
+      "id": "commissions",
+      "title": "Commissions",
+      "description": "Collaborate on custom ceramics for homes, hospitality, and projects.",
+      "href": "/commissions",
+      "badge": "Bespoke",
+      "ctaLabel": "Start a commission",
+      "image": {
+        "src": "/images/home/collection-archive.svg",
+        "alt": "Custom studio ceramic forms displayed as commission work."
+      }
+    }
+  ]
+}

@@ -2,6 +2,14 @@
   "sectionId": "process",
   "eyebrow": "Studio process",
   "headline": "From clay body to final kiln",
+  "primaryAction": {
+    "label": "Commission custom ceramics",
+    "href": "/commissions"
+  },
+  "secondaryAction": {
+    "label": "Join a workshop",
+    "href": "/workshops-and-classes"
+  },
   "gallery": [
     {
       "src": "/images/home/process-throwing.svg",

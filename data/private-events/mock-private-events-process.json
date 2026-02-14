@@ -1,0 +1,23 @@
+{
+  "sectionId": "private-events-process",
+  "eyebrow": "How It Works",
+  "headline": "A clear process from inquiry to firing.",
+  "description": "We keep planning simple while tailoring details to your group.",
+  "steps": [
+    {
+      "id": "inquiry",
+      "title": "Share your event brief",
+      "description": "Tell us your date range, group size, and desired atmosphere."
+    },
+    {
+      "id": "proposal",
+      "title": "Review your custom format",
+      "description": "We send a focused proposal with schedule, inclusions, and pricing."
+    },
+    {
+      "id": "studio-day",
+      "title": "Enjoy the studio experience",
+      "description": "You host while we guide, then finish and fire all selected pieces."
+    }
+  ]
+}

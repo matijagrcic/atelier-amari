@@ -2,6 +2,14 @@
   "sectionId": "faq",
   "eyebrow": "Frequently asked questions",
   "headline": "Shipping, care, and custom orders",
+  "primaryAction": {
+    "label": "Plan a private event",
+    "href": "/private-events"
+  },
+  "secondaryAction": {
+    "label": "Contact the atelier",
+    "href": "/contact"
+  },
   "items": [
     {
       "question": "Are your ceramics dishwasher safe?",

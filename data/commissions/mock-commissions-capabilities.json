@@ -1,0 +1,23 @@
+{
+  "sectionId": "commissions-capabilities",
+  "eyebrow": "What We Can Make",
+  "headline": "Capabilities across tableware, decor, and project collections.",
+  "description": "Each commission is developed through sketches, glaze studies, and practical prototyping.",
+  "capabilities": [
+    {
+      "id": "tableware-runs",
+      "title": "Tableware Runs",
+      "description": "Curated plate, bowl, and cup sets for restaurants, hosts, and private homes."
+    },
+    {
+      "id": "signature-pieces",
+      "title": "Signature Pieces",
+      "description": "Sculptural vases, centerpiece forms, and statement objects with custom finishes."
+    },
+    {
+      "id": "gifting-editions",
+      "title": "Gifting Editions",
+      "description": "Small-batch branded or personalized ceramic gifts for events and teams."
+    }
+  ]
+}

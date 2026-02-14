@@ -1,0 +1,44 @@
+{
+  "sectionId": "workshops-list",
+  "eyebrow": "Current Program",
+  "headline": "Choose a class format that matches your rhythm.",
+  "description": "All workshops include clay, glazing materials, firing, and guided critique.",
+  "items": [
+    {
+      "id": "weekend-wheel",
+      "title": "Weekend Wheel Basics",
+      "format": "Workshop",
+      "duration": "2 days",
+      "schedule": "Sat-Sun, 10:00-14:00",
+      "description": "A beginner-friendly intensive covering centering, cylinders, trimming, and finishing.",
+      "level": "Beginner"
+    },
+    {
+      "id": "evening-series",
+      "title": "Evening Studio Series",
+      "format": "Class",
+      "duration": "6 weeks",
+      "schedule": "Wed, 18:30-21:00",
+      "description": "Build confidence through repeated practice with weekly demos and personalized guidance.",
+      "level": "All Levels"
+    },
+    {
+      "id": "surface-lab",
+      "title": "Surface & Glaze Lab",
+      "format": "Workshop",
+      "duration": "1 day",
+      "schedule": "Sun, 11:00-16:00",
+      "description": "Explore layering, wax resist, and texture-driven glaze tests for expressive surfaces.",
+      "level": "Intermediate"
+    },
+    {
+      "id": "open-practice",
+      "title": "Guided Open Practice",
+      "format": "Class",
+      "duration": "Drop-in",
+      "schedule": "Thu, 17:00-20:00",
+      "description": "Bring your ongoing pieces and receive focused feedback on form and finishing.",
+      "level": "Intermediate+"
+    }
+  ]
+}

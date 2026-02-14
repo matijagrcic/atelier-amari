@@ -2,12 +2,15 @@ import Image from "next/image"
 import processData from "@/data/home/mock-process.json"
 import { AspectRatio } from "@/components/ui/aspect-ratio"
 import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
 
 type ProcessData = {
   sectionId: string
   eyebrow: string
   headline: string
+  primaryAction: { label: string; href: string }
+  secondaryAction: { label: string; href: string }
   gallery: Array<{ src: string; alt: string }>
   steps: Array<{ title: string; description: string }>
 }
@@ -59,6 +62,14 @@ export function ProcessBlock() {
             {index < data.steps.length - 1 ? <Separator /> : null}
           </div>
         ))}
+        <div className="flex flex-wrap gap-3 pt-2">
+          <Button asChild className="rounded-full">
+            <a href={data.primaryAction.href}>{data.primaryAction.label}</a>
+          </Button>
+          <Button asChild variant="outline" className="rounded-full">
+            <a href={data.secondaryAction.href}>{data.secondaryAction.label}</a>
+          </Button>
+        </div>
       </div>
     </section>
   )

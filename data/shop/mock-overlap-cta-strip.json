@@ -1,0 +1,8 @@
+{
+  "sectionId": "shop-cta",
+  "eyebrow": "Looking for something custom?",
+  "title": "Commission tableware sets and one-off statement pieces.",
+  "description": "Work with our studio to shape form, finish, and scale for your home or hospitality space.",
+  "primaryAction": { "label": "Start a commission", "href": "/commissions" },
+  "secondaryAction": { "label": "Contact the atelier", "href": "/contact" }
+}

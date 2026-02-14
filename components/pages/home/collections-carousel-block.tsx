@@ -4,6 +4,7 @@ import Image from "next/image"
 import collections from "@/data/home/mock-collections-carousel.json"
 import { AspectRatio } from "@/components/ui/aspect-ratio"
 import { Badge } from "@/components/ui/badge"
+import { Button } from "@/components/ui/button"
 import {
   Card,
   CardContent,
@@ -24,6 +25,8 @@ type CollectionsData = {
   eyebrow: string
   headline: string
   description: string
+  primaryAction: { label: string; href: string }
+  secondaryAction: { label: string; href: string }
   items: Array<{
     name: string
     material: string
@@ -84,6 +87,20 @@ export function CollectionsCarouselBlock() {
         <CarouselPrevious className="left-0 border-border/70" />
         <CarouselNext className="right-0 border-border/70" />
       </Carousel>
+
+      <div className="mt-8 rounded-2xl border border-border/70 bg-[linear-gradient(120deg,hsl(35_40%_93%),hsl(30_24%_96%))] p-6 md:flex md:items-center md:justify-between">
+        <p className="font-serif text-2xl tracking-tight md:text-3xl">
+          Discover the full atelier edit.
+        </p>
+        <div className="mt-4 flex flex-wrap gap-3 md:mt-0">
+          <Button asChild className="rounded-full">
+            <a href={data.primaryAction.href}>{data.primaryAction.label}</a>
+          </Button>
+          <Button asChild variant="outline" className="rounded-full">
+            <a href={data.secondaryAction.href}>{data.secondaryAction.label}</a>
+          </Button>
+        </div>
+      </div>
     </section>
   )
 }

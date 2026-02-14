@@ -1,0 +1,8 @@
+{
+  "sectionId": "workshops-cta",
+  "eyebrow": "Studio Visits",
+  "title": "Planning a group class or private workshop?",
+  "description": "We host custom class formats for teams, friends, and celebrations with tailored pacing.",
+  "primaryAction": { "label": "Plan a private event", "href": "/private-events" },
+  "secondaryAction": { "label": "Contact us", "href": "/contact" }
+}

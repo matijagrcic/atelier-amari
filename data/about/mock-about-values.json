@@ -1,0 +1,23 @@
+{
+  "sectionId": "about-values",
+  "eyebrow": "Values",
+  "headline": "A practice shaped by clarity, care, and process.",
+  "description": "Our work is guided by a few principles that influence every piece.",
+  "values": [
+    {
+      "id": "material-honesty",
+      "title": "Material Honesty",
+      "description": "We let clay body, glaze response, and firing marks stay visible and intentional."
+    },
+    {
+      "id": "everyday-luxury",
+      "title": "Everyday Luxury",
+      "description": "Objects are made to be used often, not only displayed occasionally."
+    },
+    {
+      "id": "small-batch-focus",
+      "title": "Small Batch Focus",
+      "description": "Limited production keeps quality high and allows thoughtful iteration."
+    }
+  ]
+}
