@@ -1,4 +1,5 @@
 import workshopsList from "@/data/workshops-and-classes/mock-workshops-list.json"
+import Link from "next/link"
 import { Badge } from "@/components/ui/badge"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { SectionHeader } from "@/components/pages/shared/section-header"
@@ -32,25 +33,31 @@ export function WorkshopsListBlock() {
       />
       <div className="grid gap-5 md:grid-cols-2">
         {data.items.map((item) => (
-          <Card key={item.id} className="border-border/70 bg-card/60">
-            <CardHeader className="space-y-3">
-              <div className="flex flex-wrap gap-2">
-                <Badge variant="outline" className="rounded-full">
-                  {item.format}
-                </Badge>
-                <Badge variant="secondary" className="rounded-full">
-                  {item.level}
-                </Badge>
-              </div>
-              <CardTitle className="font-serif text-3xl">{item.title}</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-3">
-              <p className="text-sm text-muted-foreground">{item.description}</p>
-              <p className="text-sm font-medium text-foreground/80">
-                {item.duration} - {item.schedule}
-              </p>
-            </CardContent>
-          </Card>
+          <Link
+            key={item.id}
+            href={`/workshops-and-classes/${item.id}`}
+            className="group rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+          >
+            <Card className="h-full border-border/70 bg-card/60 transition-all group-hover:-translate-y-0.5 group-hover:border-border group-hover:shadow-sm">
+              <CardHeader className="space-y-3">
+                <div className="flex flex-wrap gap-2">
+                  <Badge variant="outline" className="rounded-full">
+                    {item.format}
+                  </Badge>
+                  <Badge variant="secondary" className="rounded-full">
+                    {item.level}
+                  </Badge>
+                </div>
+                <CardTitle className="font-serif text-3xl">{item.title}</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-3">
+                <p className="text-sm text-muted-foreground">{item.description}</p>
+                <p className="text-sm font-medium text-foreground/80">
+                  {item.duration} - {item.schedule}
+                </p>
+              </CardContent>
+            </Card>
+          </Link>
         ))}
       </div>
     </SectionShell>
