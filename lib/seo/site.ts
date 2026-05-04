@@ -5,7 +5,7 @@ export const siteConfig = {
   titleTemplate: "%s | Atelier Amari",
   description:
     "Ceramic atelier creating small-batch stoneware, original paintings, workshops, and commissions for contemporary homes.",
-  url: getSiteUrl(),
+  url: "https://www.atelieramari.com",
   locale: "en",
   instagramUrl: "https://www.instagram.com/amari_atelier/",
   defaultOgImage: "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-1200w.webp",
@@ -49,7 +49,3 @@ export function workshopPath(slug: string) {
   return `${siteRoutes.workshops}/${slug}`
 }
 
-function getSiteUrl() {
-  const rawUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://atelier-amari.com"
-  return rawUrl.replace(/\/$/, "")
-}
