@@ -5,7 +5,7 @@ import { PrivateEventsListBlock } from "@/components/pages/private-events/privat
 import { PrivateEventsProcessBlock } from "@/components/pages/private-events/private-events-process-block"
 
 export const metadata: Metadata = {
-  title: "Private Events | Atelier Amari",
+  title: "Private Events",
   description: "Host intimate ceramic events, team workshops, and celebrations in our studio.",
 }
 

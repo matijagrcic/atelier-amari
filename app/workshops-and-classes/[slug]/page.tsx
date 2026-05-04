@@ -26,12 +26,12 @@ export async function generateMetadata({ params }: DetailPageProps): Promise<Met
 
   if (!workshop) {
     return {
-      title: "Workshop Not Found | Atelier Amari",
+      title: "Workshop Not Found",
     }
   }
 
   return {
-    title: `${workshop.title} | Atelier Amari`,
+    title: workshop.title,
     description: workshop.shortDescription,
   }
 }

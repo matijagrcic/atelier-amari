@@ -4,7 +4,7 @@ import { BlogHeroBlock } from "@/components/pages/blog/blog-hero-block"
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
-  title: "Blog | Atelier Amari",
+  title: "Blog",
   description: "Stories, studio notes, and ceramic inspiration from Atelier Amari.",
 }
 

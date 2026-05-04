@@ -22,6 +22,10 @@ export type ProductDetail = {
   name: string
   category: string
   price: string
+  sku: string
+  priceAmount: number
+  priceCurrency: string
+  availability: string
   shortDescription: string
   longDescription: string
   highlights: string[]

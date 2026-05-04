@@ -25,6 +25,10 @@ type ProductDetail = {
   name: string
   category: string
   price: string
+  sku: string
+  priceAmount: number
+  priceCurrency: string
+  availability: string
   shortDescription: string
   longDescription: string
   highlights: string[]
@@ -45,6 +49,8 @@ type SeriesCopy = {
   description: string
   palette: string
   price: string
+  priceAmount: number
+  priceCurrency: string
 }
 
 const PUBLIC_ASSET_ROOT = "/atelier-amari"
@@ -56,51 +62,71 @@ const seriesCopy: Record<string, SeriesCopy> = {
     description: "luminous abstract layers and a quiet sense of arrival",
     palette: "soft luminous contrast",
     price: "EUR 420",
+    priceAmount: 420,
+    priceCurrency: "EUR",
   },
   "azure-dreams": {
     description: "blue-toned atmosphere, coastal depth, and airy movement",
     palette: "azure, mist, and coastal shadow",
     price: "EUR 360",
+    priceAmount: 360,
+    priceCurrency: "EUR",
   },
   "coral-dreams": {
     description: "warm coral movement and softly glowing abstract form",
     palette: "coral, shell, and sun-washed neutrals",
     price: "EUR 340",
+    priceAmount: 340,
+    priceCurrency: "EUR",
   },
   "dream-come-true": {
     description: "gentle color fields with a hopeful, meditative presence",
     palette: "warm light and softened color",
     price: "EUR 380",
+    priceAmount: 380,
+    priceCurrency: "EUR",
   },
   "flower-scent": {
     description: "floral memory translated into layered color and gesture",
     palette: "petal tones and garden light",
     price: "EUR 390",
+    priceAmount: 390,
+    priceCurrency: "EUR",
   },
   "harmony-in-pink": {
     description: "pink tonal harmony with expressive surface movement",
     palette: "rose, blush, and quiet warmth",
     price: "EUR 370",
+    priceAmount: 370,
+    priceCurrency: "EUR",
   },
   "purple-beauties": {
     description: "rich violet forms with a dramatic, painterly presence",
     palette: "violet, plum, and mineral shadow",
     price: "EUR 410",
+    priceAmount: 410,
+    priceCurrency: "EUR",
   },
   "purple-dreams": {
     description: "dreamlike purple studies with layered atmospheric depth",
     palette: "lavender, violet, and dusk tones",
     price: "EUR 360",
+    priceAmount: 360,
+    priceCurrency: "EUR",
   },
   spring: {
     description: "fresh seasonal color and open, garden-like movement",
     palette: "spring greens, light, and floral color",
     price: "EUR 380",
+    priceAmount: 380,
+    priceCurrency: "EUR",
   },
   "whispers-on-the-canvas": {
     description: "subtle abstract marks with a restrained, poetic surface",
     palette: "quiet neutrals and soft tonal shifts",
     price: "EUR 350",
+    priceAmount: 350,
+    priceCurrency: "EUR",
   },
 }
 
@@ -148,6 +174,10 @@ export const generatedPaintingProductDetails: ProductDetail[] = generatedPaintin
       name: metadata.name,
       category: "Painting",
       price: metadata.copy.price,
+      sku: metadata.slug,
+      priceAmount: metadata.copy.priceAmount,
+      priceCurrency: metadata.copy.priceCurrency,
+      availability: "https://schema.org/InStock",
       shortDescription: `An original ${metadata.name} painting series with ${metadata.copy.description}.`,
       longDescription: `${metadata.name} is a one-of-a-kind painting series built through layered pigment, visible handwork, and ${metadata.copy.palette}. The gallery brings the available views together under one product instead of repeating them as separate cards.`,
       highlights: [
@@ -195,6 +225,8 @@ function getSeriesMetadata(seriesSlug: string) {
     description: "layered abstract color and visible handwork",
     palette: "atelier color and tonal movement",
     price: "EUR 360",
+    priceAmount: 360,
+    priceCurrency: "EUR",
   }
 
   return {

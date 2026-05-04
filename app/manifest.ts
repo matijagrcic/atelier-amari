@@ -1,9 +1,10 @@
 import type { MetadataRoute } from "next"
+import { siteConfig } from "@/lib/seo/site"
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "A'Mari Atelier",
-    short_name: "A'Mari Atelier",
+    name: siteConfig.name,
+    short_name: siteConfig.shortName,
     icons: [
       {
         src: "/android-chrome-192x192.png",

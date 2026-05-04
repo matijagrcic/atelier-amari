@@ -6,7 +6,7 @@ import { CommissionsTallyFormBlock } from "@/components/pages/commissions/commis
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
-  title: "Commissions | Atelier Amari",
+  title: "Commissions",
   description: "Commission custom ceramic pieces for homes, gifts, and hospitality spaces.",
 }
 

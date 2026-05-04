@@ -5,7 +5,7 @@ import { GiftCardOptionsBlock } from "@/components/pages/gift-card/gift-card-opt
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
-  title: "Gift Cards | Atelier Amari",
+  title: "Gift Cards",
   description: "Gift creative studio moments with Atelier Amari gift cards and experiences.",
 }
 

@@ -6,7 +6,7 @@ import { AboutValuesBlock } from "@/components/pages/about/about-values-block"
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
-  title: "About Me | Atelier Amari",
+  title: "About Me",
   description: "Learn more about Emina, her art, and the story behind her floral acrylic paintings.",
 }
 

@@ -5,7 +5,7 @@ import { ContactTallyFormBlock } from "@/components/pages/contact/contact-tally-
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
-  title: "Contact | Atelier Amari",
+  title: "Contact",
   description: "Get in touch with Atelier Amari for studio visits, commissions, and product inquiries.",
 }
 

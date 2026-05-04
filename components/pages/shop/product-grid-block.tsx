@@ -1,8 +1,8 @@
-import productGrid from "@/data/shop/mock-product-grid.json"
 import { ProductCard } from "@/components/pages/shared/product-card"
 import { SectionHeader } from "@/components/pages/shared/section-header"
 import { SectionShell } from "@/components/pages/shared/section-shell"
-import { generatedPaintingProductGridItems } from "@/data/shop/generated-painting-products"
+import { getAllProductGridItems } from "@/data/shop/products"
+import productGrid from "@/data/shop/mock-product-grid.json"
 
 type ProductGridData = {
   sectionId: string
@@ -22,7 +22,7 @@ type ProductGridData = {
 
 export function ProductGridBlock() {
   const data = productGrid as ProductGridData
-  const items = [...data.items, ...generatedPaintingProductGridItems]
+  const items = getAllProductGridItems()
 
   return (
     <SectionShell id={data.sectionId} className="pt-8">
