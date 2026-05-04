@@ -26,7 +26,7 @@ type ProductDetail = {
   category: string
   price: string
   sku: string
-  priceAmount: number
+  priceAmount: number | null
   priceCurrency: string
   availability: string
   shortDescription: string
@@ -49,7 +49,7 @@ type SeriesCopy = {
   description: string
   palette: string
   price: string
-  priceAmount: number
+  priceAmount: number | null
   priceCurrency: string
 }
 
@@ -61,72 +61,72 @@ const seriesCopy: Record<string, SeriesCopy> = {
   awakening: {
     description: "luminous abstract layers and a quiet sense of arrival",
     palette: "soft luminous contrast",
-    price: "EUR 420",
-    priceAmount: 420,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "azure-dreams": {
     description: "blue-toned atmosphere, coastal depth, and airy movement",
     palette: "azure, mist, and coastal shadow",
-    price: "EUR 360",
-    priceAmount: 360,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "coral-dreams": {
     description: "warm coral movement and softly glowing abstract form",
     palette: "coral, shell, and sun-washed neutrals",
-    price: "EUR 340",
-    priceAmount: 340,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "dream-come-true": {
     description: "gentle color fields with a hopeful, meditative presence",
     palette: "warm light and softened color",
-    price: "EUR 380",
-    priceAmount: 380,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "flower-scent": {
     description: "floral memory translated into layered color and gesture",
     palette: "petal tones and garden light",
-    price: "EUR 390",
-    priceAmount: 390,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "harmony-in-pink": {
     description: "pink tonal harmony with expressive surface movement",
     palette: "rose, blush, and quiet warmth",
-    price: "EUR 370",
-    priceAmount: 370,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "purple-beauties": {
     description: "rich violet forms with a dramatic, painterly presence",
     palette: "violet, plum, and mineral shadow",
-    price: "EUR 410",
-    priceAmount: 410,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "purple-dreams": {
     description: "dreamlike purple studies with layered atmospheric depth",
     palette: "lavender, violet, and dusk tones",
-    price: "EUR 360",
-    priceAmount: 360,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   spring: {
     description: "fresh seasonal color and open, garden-like movement",
     palette: "spring greens, light, and floral color",
-    price: "EUR 380",
-    priceAmount: 380,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
   "whispers-on-the-canvas": {
     description: "subtle abstract marks with a restrained, poetic surface",
     palette: "quiet neutrals and soft tonal shifts",
-    price: "EUR 350",
-    priceAmount: 350,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   },
 }
 
@@ -214,7 +214,7 @@ export const generatedPaintingProductDetails: ProductDetail[] = generatedPaintin
         },
       ],
       gallery,
-      stripePaymentLink: `https://buy.stripe.com/${metadata.slug}`,
+      stripePaymentLink: "",
     }
   },
 )
@@ -224,9 +224,9 @@ function getSeriesMetadata(seriesSlug: string) {
   const copy = seriesCopy[seriesSlug] ?? {
     description: "layered abstract color and visible handwork",
     palette: "atelier color and tonal movement",
-    price: "EUR 360",
-    priceAmount: 360,
-    priceCurrency: "EUR",
+    price: "",
+    priceAmount: null,
+    priceCurrency: "",
   }
 
   return {

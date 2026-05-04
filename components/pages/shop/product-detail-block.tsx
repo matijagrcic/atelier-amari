@@ -23,7 +23,7 @@ export type ProductDetail = {
   category: string
   price: string
   sku: string
-  priceAmount: number
+  priceAmount: number | null
   priceCurrency: string
   availability: string
   shortDescription: string
@@ -98,6 +98,7 @@ export function ProductDetailBlock({ product }: ProductDetailBlockProps) {
       ]
 
   const relatedItems = product.relatedItems?.length ? product.relatedItems : []
+  const hasCheckoutLink = Boolean(product.stripePaymentLink)
 
   return (
     <section className="mx-auto w-full max-w-6xl px-6 py-10 md:py-14">
@@ -117,9 +118,13 @@ export function ProductDetailBlock({ product }: ProductDetailBlockProps) {
             badge={product.category}
             shortDescription={product.shortDescription}
             purchaseOptions={purchaseOptions}
-            ctaLabel="Buy now via Stripe"
+            ctaLabel={hasCheckoutLink ? "Buy now via Stripe" : "Checkout coming soon"}
             stripePaymentLink={product.stripePaymentLink}
-            helperText="Secure checkout in Stripe. Each piece is purchased individually."
+            helperText={
+              hasCheckoutLink
+                ? "Secure checkout in Stripe. Each piece is purchased individually."
+                : "Pricing and checkout details will be added soon."
+            }
           />
         </aside>
       </div>

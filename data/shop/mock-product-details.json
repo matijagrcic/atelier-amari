@@ -4,10 +4,10 @@
       "slug": "shoreline-set",
       "name": "Shoreline Dinner Set",
       "category": "Tableware",
-      "price": "EUR 148",
+      "price": "",
       "sku": "shoreline-set",
-      "priceAmount": 148,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "Four dinner plates with a mineral glaze inspired by coastal stone.",
       "longDescription": "A refined set designed for everyday hosting. Each plate is wheel-thrown, trimmed by hand, and finished with layered mineral glazing that reveals subtle variation in tone.",
@@ -94,7 +94,7 @@
         {
           "title": "Evening Vessel",
           "meta": "Decor",
-          "price": "EUR 92",
+          "price": "",
           "image": {
             "src": "/images/home/collection-evening.svg",
             "alt": "Dark sculptural ceramic vase on pedestal"
@@ -104,7 +104,7 @@
         {
           "title": "Salt Glaze Bowl Pair",
           "meta": "Tableware",
-          "price": "EUR 64",
+          "price": "",
           "image": {
             "src": "/images/home/collection-salt.svg",
             "alt": "Pair of textured salt glazed ceramic bowls"
@@ -114,7 +114,7 @@
         {
           "title": "Studio Platter",
           "meta": "Hosting",
-          "price": "EUR 112",
+          "price": "",
           "image": {
             "src": "/images/home/hero-collection.svg",
             "alt": "Large handmade ceramic platter styled for serving"
@@ -124,7 +124,7 @@
         {
           "title": "Throwing Jar",
           "meta": "Storage",
-          "price": "EUR 76",
+          "price": "",
           "image": {
             "src": "/images/home/process-throwing.svg",
             "alt": "Potter shaping a lidded vessel on the wheel"
@@ -137,16 +137,16 @@
         { "src": "/images/home/hero-collection.svg", "alt": "Studio serving setup with handmade ceramics" },
         { "src": "/images/home/collection-salt.svg", "alt": "Close detail of textured handmade ceramic surfaces" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/shoreline-set"
+      "stripePaymentLink": ""
     },
     {
       "slug": "evening-vase",
       "name": "Evening Vessel",
       "category": "Decor",
-      "price": "EUR 92",
+      "price": "",
       "sku": "evening-vase",
-      "priceAmount": 92,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "A tall vase with soft faceting and a satin black finish.",
       "longDescription": "Sculptural and restrained, this piece balances a narrow neck with a generous body. The satin finish catches low evening light and highlights the hand-faceted profile.",
@@ -176,16 +176,16 @@
         { "src": "/images/home/process-kiln.svg", "alt": "Ceramic forms staged before kiln firing" },
         { "src": "/images/home/process-glazing.svg", "alt": "Hand glazing ceramic surface in the studio" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/evening-vase"
+      "stripePaymentLink": ""
     },
     {
       "slug": "salt-bowls",
       "name": "Salt Glaze Bowl Pair",
       "category": "Tableware",
-      "price": "EUR 64",
+      "price": "",
       "sku": "salt-bowls",
-      "priceAmount": 64,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "Two nesting bowls with tactile rims and a clouded salt glaze.",
       "longDescription": "A versatile pair for prep, serving, or morning ritual. The clouded glaze blooms differently across each bowl, preserving the character of hand-built form.",
@@ -215,16 +215,16 @@
         { "src": "/images/home/collection-coastal.svg", "alt": "Handmade tableware collection in neutral tones" },
         { "src": "/images/home/process-throwing.svg", "alt": "Clay form being shaped on a pottery wheel" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/salt-bowls"
+      "stripePaymentLink": ""
     },
     {
       "slug": "archive-cup",
       "name": "Archive Cup Set",
       "category": "Limited",
-      "price": "EUR 58",
+      "price": "",
       "sku": "archive-cup",
-      "priceAmount": 58,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "A pair of espresso cups from our archive studies collection.",
       "longDescription": "Drawn from exploratory forms in the studio archive, these cups pair compact volume with a comfortable lip and balanced weight for daily espresso service.",
@@ -254,16 +254,16 @@
         { "src": "/images/home/process-glazing.svg", "alt": "Studio glazing process for small ceramic forms" },
         { "src": "/images/home/hero-collection.svg", "alt": "Refined ceramic serving collection in studio light" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/archive-cup"
+      "stripePaymentLink": ""
     },
     {
       "slug": "hero-platter",
       "name": "Studio Platter",
       "category": "Hosting",
-      "price": "EUR 112",
+      "price": "",
       "sku": "hero-platter",
-      "priceAmount": 112,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "Wide serving platter with a warm clay body and clear glossy interior.",
       "longDescription": "Designed for generous shared meals, this platter features a broad rim and subtle lifted foot for elegant table presentation and practical handling.",
@@ -293,16 +293,16 @@
         { "src": "/images/home/collection-coastal.svg", "alt": "Coastal-inspired dinnerware composition" },
         { "src": "/images/home/process-kiln.svg", "alt": "Ceramic pieces arranged before kiln loading" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/studio-platter"
+      "stripePaymentLink": ""
     },
     {
       "slug": "throwing-jar",
       "name": "Throwing Jar",
       "category": "Storage",
-      "price": "EUR 76",
+      "price": "",
       "sku": "throwing-jar",
-      "priceAmount": 76,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "Lidded utility jar for tea, salt, or countertop essentials.",
       "longDescription": "A practical studio staple with a close-fit lid and balanced proportions. The smooth interior and tactile exterior make it equally functional and decorative.",
@@ -332,16 +332,16 @@
         { "src": "/images/home/collection-evening.svg", "alt": "Studio pottery piece with deep toned glaze" },
         { "src": "/images/home/collection-archive.svg", "alt": "Minimal ceramic forms displayed in sequence" }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/throwing-jar"
+      "stripePaymentLink": ""
     },
     {
       "slug": "awakening-canvas",
       "name": "Awakening Canvas",
       "category": "Painting",
-      "price": "EUR 420",
+      "price": "",
       "sku": "awakening-canvas",
-      "priceAmount": 420,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "An original abstract painting with luminous layers and a quiet sense of movement.",
       "longDescription": "Awakening is a one-of-a-kind canvas built through translucent color, gesture, and soft contrast. The work brings a calm focal point to intimate rooms, reading differently as the light changes through the day.",
@@ -393,7 +393,7 @@
         {
           "title": "Azure Dreams Study",
           "meta": "Painting",
-          "price": "EUR 360",
+          "price": "",
           "image": {
             "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
             "alt": "Azure Dreams original painting in layered blue tones"
@@ -403,7 +403,7 @@
         {
           "title": "Shoreline Dinner Set",
           "meta": "Tableware",
-          "price": "EUR 148",
+          "price": "",
           "image": {
             "src": "/images/home/collection-coastal.svg",
             "alt": "Blue grey ceramic dinner set arranged on linen"
@@ -413,7 +413,7 @@
         {
           "title": "Flower Scent Canvas",
           "meta": "Painting",
-          "price": "EUR 390",
+          "price": "",
           "image": {
             "src": "/atelier-amari/paintings/flower-scent/flower-scent-04-1200w.webp",
             "alt": "Flower Scent original painting with layered floral color"
@@ -435,16 +435,16 @@
           "alt": "Awakening painting with luminous abstract movement"
         }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/awakening-canvas"
+      "stripePaymentLink": ""
     },
     {
       "slug": "azure-dreams-study",
       "name": "Azure Dreams Study",
       "category": "Painting",
-      "price": "EUR 360",
+      "price": "",
       "sku": "azure-dreams-study",
-      "priceAmount": 360,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "A blue-toned painting study with atmospheric depth and coastal stillness.",
       "longDescription": "Azure Dreams Study explores water, air, and horizon through layered blue pigment. The work is calm but expressive, designed for collectors who want a quiet focal piece with visible handwork.",
@@ -496,7 +496,7 @@
         {
           "title": "Awakening Canvas",
           "meta": "Painting",
-          "price": "EUR 420",
+          "price": "",
           "image": {
             "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
             "alt": "Awakening original abstract painting with soft layered color"
@@ -506,7 +506,7 @@
         {
           "title": "Evening Vessel",
           "meta": "Decor",
-          "price": "EUR 92",
+          "price": "",
           "image": {
             "src": "/images/home/collection-evening.svg",
             "alt": "Dark sculptural ceramic vase on pedestal"
@@ -516,7 +516,7 @@
         {
           "title": "Throwing Jar",
           "meta": "Storage",
-          "price": "EUR 76",
+          "price": "",
           "image": {
             "src": "/images/home/process-throwing.svg",
             "alt": "Potter shaping a lidded vessel on the wheel"
@@ -538,16 +538,16 @@
           "alt": "Azure Dreams painting detail with blue coastal color"
         }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/azure-dreams-study"
+      "stripePaymentLink": ""
     },
     {
       "slug": "flower-scent-canvas",
       "name": "Flower Scent Canvas",
       "category": "Painting",
-      "price": "EUR 390",
+      "price": "",
       "sku": "flower-scent-canvas",
-      "priceAmount": 390,
-      "priceCurrency": "EUR",
+      "priceAmount": null,
+      "priceCurrency": "",
       "availability": "https://schema.org/InStock",
       "shortDescription": "A floral abstract canvas with soft chromatic layers and an intimate scale.",
       "longDescription": "Flower Scent Canvas carries the suggestion of petals, fragrance, and garden light through abstract mark-making. The palette is expressive without losing the calm restraint of the atelier edit.",
@@ -599,7 +599,7 @@
         {
           "title": "Awakening Canvas",
           "meta": "Painting",
-          "price": "EUR 420",
+          "price": "",
           "image": {
             "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
             "alt": "Awakening original abstract painting with soft layered color"
@@ -609,7 +609,7 @@
         {
           "title": "Azure Dreams Study",
           "meta": "Painting",
-          "price": "EUR 360",
+          "price": "",
           "image": {
             "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
             "alt": "Azure Dreams original painting in layered blue tones"
@@ -619,7 +619,7 @@
         {
           "title": "Shoreline Dinner Set",
           "meta": "Tableware",
-          "price": "EUR 148",
+          "price": "",
           "image": {
             "src": "/images/home/collection-coastal.svg",
             "alt": "Blue grey ceramic dinner set arranged on linen"
@@ -641,7 +641,7 @@
           "alt": "Flower Scent painting detail with soft chromatic layers"
         }
       ],
-      "stripePaymentLink": "https://buy.stripe.com/flower-scent-canvas"
+      "stripePaymentLink": ""
     }
   ]
 }

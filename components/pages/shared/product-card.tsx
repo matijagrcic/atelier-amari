@@ -40,7 +40,7 @@ export function ProductCard({
         </Badge>
         <div className="space-y-1">
           <CardTitle className="font-serif text-2xl">{name}</CardTitle>
-          <p className="text-sm font-medium text-foreground/80">{price}</p>
+          {price ? <p className="text-sm font-medium text-foreground/80">{price}</p> : null}
         </div>
         <p className="text-sm text-muted-foreground">{description}</p>
       </CardHeader>

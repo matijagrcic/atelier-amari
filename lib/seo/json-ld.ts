@@ -127,7 +127,7 @@ export function buildBreadcrumbJsonLd(items: BreadcrumbItem[]): JsonLdData {
 }
 
 function buildProductSummaryJsonLd(product: ProductDetail): JsonLdData {
-  return {
+  return removeUndefined({
     "@type": "Product",
     "@id": `${productUrl(product.slug)}#product`,
     name: product.name,
@@ -136,10 +136,14 @@ function buildProductSummaryJsonLd(product: ProductDetail): JsonLdData {
     url: productUrl(product.slug),
     sku: product.sku,
     offers: buildOfferJsonLd(product),
-  }
+  })
 }
 
-function buildOfferJsonLd(product: ProductDetail): JsonLdData {
+function buildOfferJsonLd(product: ProductDetail): JsonLdData | undefined {
+  if (!product.price || product.priceAmount === null || !product.priceCurrency) {
+    return undefined
+  }
+
   return {
     "@type": "Offer",
     url: productUrl(product.slug),

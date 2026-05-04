@@ -24,7 +24,7 @@ export type ProductDetail = {
   category: string
   price: string
   sku: string
-  priceAmount: number
+  priceAmount: number | null
   priceCurrency: string
   availability: ProductAvailability
   shortDescription: string

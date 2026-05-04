@@ -49,8 +49,12 @@ export function DetailPurchasePanel({
           ) : null}
         </div>
         <h1 className="font-serif text-3xl leading-tight md:text-4xl">{title}</h1>
-        <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">{priceLabel}</p>
-        <p className="text-2xl font-semibold text-foreground/90">{price}</p>
+        {price ? (
+          <>
+            <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">{priceLabel}</p>
+            <p className="text-2xl font-semibold text-foreground/90">{price}</p>
+          </>
+        ) : null}
       </div>
 
       <div className="space-y-2 rounded-xl border border-border/70 bg-background/50 p-4 text-sm">

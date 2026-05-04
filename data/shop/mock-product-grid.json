@@ -7,7 +7,7 @@
     {
       "id": "shoreline-set",
       "name": "Shoreline Dinner Set",
-      "price": "EUR 148",
+      "price": "",
       "description": "Four dinner plates with a mineral glaze inspired by coastal stone.",
       "category": "Tableware",
       "image": { "src": "/images/home/collection-coastal.svg", "alt": "Blue grey ceramic dinner set" },
@@ -16,7 +16,7 @@
     {
       "id": "awakening-canvas",
       "name": "Awakening Canvas",
-      "price": "EUR 420",
+      "price": "",
       "description": "An original abstract painting with luminous layers and a quiet sense of movement.",
       "category": "Painting",
       "image": {
@@ -28,7 +28,7 @@
     {
       "id": "evening-vase",
       "name": "Evening Vessel",
-      "price": "EUR 92",
+      "price": "",
       "description": "A tall vase with soft faceting and a satin black finish.",
       "category": "Decor",
       "image": { "src": "/images/home/collection-evening.svg", "alt": "Dark ceramic vase on pedestal" },
@@ -37,7 +37,7 @@
     {
       "id": "azure-dreams-study",
       "name": "Azure Dreams Study",
-      "price": "EUR 360",
+      "price": "",
       "description": "A blue-toned painting study with atmospheric depth and coastal stillness.",
       "category": "Painting",
       "image": {
@@ -49,7 +49,7 @@
     {
       "id": "throwing-jar",
       "name": "Throwing Jar",
-      "price": "EUR 76",
+      "price": "",
       "description": "Lidded utility jar for tea, salt, or countertop essentials.",
       "category": "Storage",
       "image": { "src": "/images/home/process-throwing.svg", "alt": "Hand-thrown lidded ceramic jar" },
@@ -58,7 +58,7 @@
     {
       "id": "flower-scent-canvas",
       "name": "Flower Scent Canvas",
-      "price": "EUR 390",
+      "price": "",
       "description": "A floral abstract canvas with soft chromatic layers and an intimate scale.",
       "category": "Painting",
       "image": {
