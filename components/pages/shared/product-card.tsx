@@ -25,7 +25,13 @@ export function ProductCard({
     <Card className="h-full border-border/70 bg-card/70 shadow-sm">
       <CardContent className="pt-6">
         <AspectRatio ratio={4 / 3} className="relative overflow-hidden rounded-xl">
-          <Image src={image.src} alt={image.alt} fill className="object-cover" />
+          <Image
+            src={image.src}
+            alt={image.alt}
+            fill
+            sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+            className="object-cover"
+          />
         </AspectRatio>
       </CardContent>
       <CardHeader className="space-y-3">

@@ -1,8 +1,8 @@
 {
   "sectionId": "workshops-cta",
-  "eyebrow": "Studio Visits",
-  "title": "Planning a group class or private workshop?",
-  "description": "We host custom class formats for teams, friends, and celebrations with tailored pacing.",
-  "primaryAction": { "label": "Plan a private event", "href": "/private-events" },
-  "secondaryAction": { "label": "Contact us", "href": "/contact" }
+  "eyebrow": "Privatne radionice",
+  "title": "Želiš radionicu za cure ili team building?",
+  "description": "Javi se za privatni Paint & Sip termin, rođendan, večer s prijateljicama ili kreativno druženje za tim.",
+  "primaryAction": { "label": "Dogovori privatni termin", "href": "/private-events" },
+  "secondaryAction": { "label": "Kontakt", "href": "/contact" }
 }

@@ -1,256 +1,113 @@
 {
   "items": [
     {
-      "slug": "weekend-wheel",
-      "title": "Weekend Wheel Basics",
+      "slug": "paint-and-sip-girl-friday",
+      "title": "Paint & Sip Workshop (Girl Friday)",
       "format": "Workshop",
-      "level": "Beginner",
-      "duration": "2 days",
-      "schedule": "Sat-Sun, 10:00-14:00",
-      "price": "EUR 220",
-      "shortDescription": "A beginner-friendly intensive covering centering, cylinders, trimming, and finishing.",
-      "longDescription": "Designed for first-time potters, this weekend format combines technical demos with supervised making time. You leave with foundational wheel confidence and multiple finished forms ready for firing.",
+      "level": "Početnice / svi nivoi",
+      "duration": "2 sata",
+      "schedule": "[upiši datum] u [upiši vrijeme]",
+      "price": "35 €",
+      "priceLabel": "Cijena po osobi",
+      "shortDescription": "Dođi napraviti svoje prvo ili novo akrilno platno u atmosferi koja ti vraća mir i energiju.",
+      "longDescription": "Ovo je radionica za žene koje žele kreativni reset - bez pritiska, bez “ja to ne znam”, samo boje, glazba i onaj osjećaj: “ovo mi je baš trebalo.” Savršeno za početnice i sve koje žele jedno moderno, opušteno večernje iskustvo. Kroz radionicu koristimo jednostavne tehnike akrila: blendanje, slojeve, teksture i mini trikove za “wow” efekt, a ja te vodim korak po korak. Ti ćeš slikati, opustiti se i otići doma s gotovim radom.",
       "highlights": [
-        "Small group format (max 8)",
-        "All clay, glaze, and firings included",
-        "Hands-on wheel guidance throughout",
-        "Take home selected finished pieces"
+        "Bez predznanja - vodim te od prve boje do zadnjeg poteza",
+        "Jednostavne akrilne tehnike za opušten, moderan rad",
+        "Mala grupa, glazba, čaša vina ili pića i lagane grickalice",
+        "Svoje platno nosiš kući isti dan"
       ],
       "facts": [
-        { "label": "Duration", "value": "2 days" },
-        { "label": "Schedule", "value": "Sat-Sun, 10:00-14:00" },
-        { "label": "Level", "value": "Beginner" }
+        { "label": "Trajanje", "value": "2 sata" },
+        { "label": "Datum i vrijeme", "value": "[upiši datum] u [upiši vrijeme]" },
+        { "label": "Lokacija", "value": "A’MARI Atelier, Karlovac" }
       ],
       "purchaseOptions": [
-        { "label": "Duration", "value": "2 days" },
-        { "label": "Language", "value": "English / Croatian" },
-        { "label": "Group size", "value": "Max 8 participants" }
+        { "label": "Trajanje", "value": "2 sata" },
+        { "label": "Datum", "value": "[upiši datum]" },
+        { "label": "Vrijeme", "value": "[upiši vrijeme]" },
+        { "label": "Lokacija", "value": "Ul. Ambroza Vranyczanya 6, Karlovac" }
       ],
       "includes": [
-        "All materials and firings",
-        "Instructor-led demonstrations",
-        "Small group studio support"
+        "Platno",
+        "Akrilne boje",
+        "Kistove i sav pribor",
+        "Čašu vina ili pića",
+        "Lagane grickalice",
+        "Vođeno slikanje"
       ],
       "accordionSections": [
         {
           "id": "workshop-description",
-          "title": "Full Description",
-          "content": "Designed for first-time potters, this weekend format combines technical demos with supervised making time. You leave with foundational wheel confidence and multiple finished forms ready for firing."
+          "title": "Opis radionice",
+          "content": "Dođi napraviti svoje prvo ili novo akrilno platno u atmosferi koja ti vraća mir i energiju. Ovo je radionica za žene koje žele kreativni reset - bez pritiska, bez “ja to ne znam”, samo boje, glazba i onaj osjećaj: “ovo mi je baš trebalo.” Savršeno za početnice i sve koje žele jedno moderno, opušteno večernje iskustvo."
         },
         {
           "id": "workshop-highlights",
-          "title": "Highlights",
+          "title": "Što ćemo raditi",
           "items": [
-            "Small group format (max 8)",
-            "All clay, glaze, and firings included",
-            "Hands-on wheel guidance throughout",
-            "Take home selected finished pieces"
+            "Koristimo jednostavne tehnike akrila: blendanje, slojeve i teksture.",
+            "Učiš mini trikove za “wow” efekt bez osjećaja pritiska.",
+            "Vodim te korak po korak, od odabira prve boje do zadnjeg poteza.",
+            "Pomažem ti s kompozicijom, bojama i detaljima, ali tvoj rad ostaje tvoj."
           ]
         },
         {
           "id": "workshop-includes",
-          "title": "Includes",
+          "title": "Radionica uključuje",
           "items": [
-            "All materials and firings",
-            "Instructor-led demonstrations",
-            "Small group studio support"
+            "Platno, akrilne boje, kistove i sav pribor.",
+            "Čašu vina ili pića i lagane grickalice.",
+            "Vođeno slikanje u opuštenoj atmosferi.",
+            "Gotov rad koji nosiš kući isti dan."
           ]
         },
         {
           "id": "workshop-important",
-          "title": "Important Information",
+          "title": "Važne informacije",
           "items": [
-            "Wear comfortable clothes suitable for studio work.",
-            "Please arrive 10 minutes before start time.",
-            "Each booking reserves one individual seat."
+            "Nije potrebno predznanje.",
+            "Cijena uključuje sve materijale i vođenje.",
+            "Radionica je opuštena i u maloj grupi.",
+            "Broj mjesta je ograničen i rezervacija je obavezna.",
+            "Ako želiš privatnu radionicu za cure ili team building, javi se."
           ]
         }
       ],
       "importantInformation": [
-        "Wear comfortable clothes suitable for studio work.",
-        "Please arrive 10 minutes before start time.",
-        "Each booking reserves one individual seat."
+        "Nije potrebno predznanje.",
+        "Cijena uključuje sve materijale i vođenje.",
+        "Radionica je opuštena i u maloj grupi.",
+        "Broj mjesta je ograničen i rezervacija je obavezna."
       ],
       "editorialSections": [
         {
-          "title": "Guided Studio Flow",
-          "body": "The session blends concise demonstrations with supervised practice so beginners can quickly gain confidence without feeling rushed.",
+          "title": "Opuštena večer za sebe",
+          "body": "Slikat ćeš, usporiti i dobiti prostor za kreativnost bez uspoređivanja. Atmosfera je lagana, ženstvena i podržavajuća, s dovoljno vodstva da se osjećaš sigurno od prvog poteza.",
           "image": {
-            "src": "/images/home/portrait-marta.svg",
-            "alt": "Instructor guiding a student during pottery workshop"
+            "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+            "alt": "Atmosfera u A’MARI Atelieru za opuštenu paint and sip radionicu"
           }
         },
         {
-          "title": "From Clay To Kiln",
-          "body": "Participants complete core forms and prepare selected pieces for firing, with glazing support included throughout the weekend.",
+          "title": "Tvoj rad ostaje tvoj",
+          "body": "Pomažem ti s kompozicijom, bojama i detaljima, ali ne radimo kopiju bez duše. Baš zato svako platno izgleda posebno i nosi tvoj osobni trag.",
           "image": {
-            "src": "/images/home/process-kiln.svg",
-            "alt": "Ceramic pieces prepared for kiln firing"
+            "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-768w.webp",
+            "alt": "Detalj kreativne atmosfere u A’MARI Atelieru"
           }
         }
       ],
-      "relatedItems": [
+      "relatedItems": [],
+      "gallery": [
         {
-          "title": "Evening Studio Series",
-          "meta": "Class",
-          "price": "EUR 460",
-          "image": {
-            "src": "/images/home/hero-collection.svg",
-            "alt": "Finished class pieces displayed in the studio"
-          },
-          "href": "/workshops-and-classes/evening-series"
-        },
-        {
-          "title": "Surface & Glaze Lab",
-          "meta": "Workshop",
-          "price": "EUR 180",
-          "image": {
-            "src": "/images/home/process-glazing.svg",
-            "alt": "Workshop glaze layering and surface experiments"
-          },
-          "href": "/workshops-and-classes/surface-lab"
-        },
-        {
-          "title": "Guided Open Practice",
-          "meta": "Class",
-          "price": "EUR 68",
-          "image": {
-            "src": "/images/home/collection-evening.svg",
-            "alt": "Refined ceramic forms from open studio session"
-          },
-          "href": "/workshops-and-classes/open-practice"
-        },
-        {
-          "title": "Shoreline Dinner Set",
-          "meta": "Shop",
-          "price": "EUR 148",
-          "image": {
-            "src": "/images/home/collection-coastal.svg",
-            "alt": "Blue grey ceramic dinner set arranged on linen"
-          },
-          "href": "/shop/shoreline-set"
+          "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+          "alt": "A’MARI Atelier prostor za Paint & Sip radionicu"
         }
       ],
-      "gallery": [
-        { "src": "/images/home/process-throwing.svg", "alt": "Hands shaping clay on a pottery wheel during class" },
-        { "src": "/images/home/process-glazing.svg", "alt": "Workshop participants glazing ceramic pieces" },
-        { "src": "/images/home/process-kiln.svg", "alt": "Finished workshop work prepared for kiln firing" }
-      ],
-      "stripePaymentLink": "https://buy.stripe.com/weekend-wheel"
-    },
-    {
-      "slug": "evening-series",
-      "title": "Evening Studio Series",
-      "format": "Class",
-      "level": "All Levels",
-      "duration": "6 weeks",
-      "schedule": "Wed, 18:30-21:00",
-      "price": "EUR 460",
-      "shortDescription": "Build confidence through repeated practice with weekly demos and personalized guidance.",
-      "longDescription": "A progressive series for learners who want consistency. Each week introduces a focused technique while preserving studio time for personal projects and one-to-one feedback.",
-      "highlights": [
-        "6 structured weekly sessions",
-        "Technique demos every class",
-        "Independent project support",
-        "Firing and glazing materials included"
-      ],
-      "facts": [
-        { "label": "Duration", "value": "6 weeks" },
-        { "label": "Schedule", "value": "Wed, 18:30-21:00" },
-        { "label": "Level", "value": "All Levels" }
-      ],
-      "includes": [
-        "Weekly guided instruction",
-        "Materials and firings",
-        "Project critique sessions"
-      ],
-      "importantInformation": [
-        "Suitable for beginners and returning makers.",
-        "Missed sessions are non-transferable.",
-        "Each booking reserves one individual seat."
-      ],
-      "gallery": [
-        { "src": "/images/home/process-throwing.svg", "alt": "Weekly class session at the pottery wheel" },
-        { "src": "/images/home/hero-collection.svg", "alt": "Collection of finished class pieces on display" },
-        { "src": "/images/home/portrait-marta.svg", "alt": "Instructor reviewing form and technique with student" }
-      ],
-      "stripePaymentLink": "https://buy.stripe.com/evening-series"
-    },
-    {
-      "slug": "surface-lab",
-      "title": "Surface & Glaze Lab",
-      "format": "Workshop",
-      "level": "Intermediate",
-      "duration": "1 day",
-      "schedule": "Sun, 11:00-16:00",
-      "price": "EUR 180",
-      "shortDescription": "Explore layering, wax resist, and texture-driven glaze tests for expressive surfaces.",
-      "longDescription": "An intensive session focused on surface language. We test layered slips, carving, and glaze combinations so you can build repeatable finishing strategies for your own work.",
-      "highlights": [
-        "Advanced surface demonstrations",
-        "Guided glaze test tiles",
-        "Wax resist and layering techniques",
-        "Bring bisque pieces if available"
-      ],
-      "facts": [
-        { "label": "Duration", "value": "1 day" },
-        { "label": "Schedule", "value": "Sun, 11:00-16:00" },
-        { "label": "Level", "value": "Intermediate" }
-      ],
-      "includes": [
-        "Surface and glaze demos",
-        "Test tile materials",
-        "Instructor feedback on finish strategy"
-      ],
-      "importantInformation": [
-        "Some prior ceramics familiarity is recommended.",
-        "Bring bisque pieces only if already available.",
-        "Each booking reserves one individual seat."
-      ],
-      "gallery": [
-        { "src": "/images/home/process-glazing.svg", "alt": "Close-up of glaze layering techniques in workshop" },
-        { "src": "/images/home/collection-salt.svg", "alt": "Textured ceramic surfaces showing glaze variation" },
-        { "src": "/images/home/process-kiln.svg", "alt": "Surface test pieces staged before firing" }
-      ],
-      "stripePaymentLink": "https://buy.stripe.com/surface-lab"
-    },
-    {
-      "slug": "open-practice",
-      "title": "Guided Open Practice",
-      "format": "Class",
-      "level": "Intermediate+",
-      "duration": "Drop-in",
-      "schedule": "Thu, 17:00-20:00",
-      "price": "EUR 68",
-      "shortDescription": "Bring your ongoing pieces and receive focused feedback on form and finishing.",
-      "longDescription": "A flexible studio night for returning students and independent makers. Reserve a seat, work on your own pieces, and get targeted guidance where your process needs it most.",
-      "highlights": [
-        "Flexible drop-in booking",
-        "Live critique and coaching",
-        "Shared studio equipment access",
-        "Best suited to ongoing projects"
-      ],
-      "facts": [
-        { "label": "Duration", "value": "Drop-in" },
-        { "label": "Schedule", "value": "Thu, 17:00-20:00" },
-        { "label": "Level", "value": "Intermediate+" }
-      ],
-      "includes": [
-        "Studio access during session window",
-        "Live instructor critique",
-        "Use of shared tools and stations"
-      ],
-      "importantInformation": [
-        "Best for returning students and ongoing projects.",
-        "Limited seats available per session.",
-        "Each booking reserves one individual seat."
-      ],
-      "gallery": [
-        { "src": "/images/home/process-throwing.svg", "alt": "Open studio practice session on pottery wheel" },
-        { "src": "/images/home/portrait-luka.svg", "alt": "Instructor discussing form progression with participant" },
-        { "src": "/images/home/collection-evening.svg", "alt": "Refined ceramic forms from independent studio practice" }
-      ],
-      "stripePaymentLink": "https://buy.stripe.com/open-practice"
+      "ctaLabel": "Stripe Payment link uskoro",
+      "helperText": "Prijave će ići preko Stripe Payment linka. Zamijeni placeholder stvarnim Stripe linkom prije objave.",
+      "stripePaymentLink": "#"
     }
   ]
 }

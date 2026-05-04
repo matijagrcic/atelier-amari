@@ -15,6 +15,15 @@
       "title": "Browse the Shop",
       "description": "View currently available collections and ready-to-ship pieces.",
       "action": { "label": "Go to shop", "href": "/shop" }
+    },
+    {
+      "id": "instagram-path",
+      "title": "Follow on Instagram",
+      "description": "See new artwork, studio updates, and behind-the-scenes process notes.",
+      "action": {
+        "label": "Open Instagram",
+        "href": "https://www.instagram.com/amari_atelier/"
+      }
     }
   ]
 }

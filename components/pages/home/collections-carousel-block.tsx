@@ -62,6 +62,7 @@ export function CollectionsCarouselBlock() {
                       src={item.image.src}
                       alt={item.image.alt}
                       fill
+                      sizes="(min-width: 1024px) 28vw, (min-width: 768px) 45vw, 100vw"
                       className="object-cover"
                     />
                   </AspectRatio>

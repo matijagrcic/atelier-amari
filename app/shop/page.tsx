@@ -6,7 +6,7 @@ import { ShopHeroBlock } from "@/components/pages/shop/shop-hero-block"
 
 export const metadata: Metadata = {
   title: "Shop | Atelier Amari",
-  description: "Browse handcrafted ceramic collections and studio editions.",
+  description: "Browse handcrafted ceramics, original paintings, and studio editions.",
 }
 
 export default function ShopPage() {

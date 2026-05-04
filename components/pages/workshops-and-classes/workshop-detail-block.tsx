@@ -25,6 +25,7 @@ export type WorkshopDetail = {
   duration: string
   schedule: string
   price: string
+  priceLabel?: string
   shortDescription: string
   longDescription: string
   highlights: string[]
@@ -36,6 +37,8 @@ export type WorkshopDetail = {
   includes?: string[]
   importantInformation?: string[]
   gallery: Array<{ src: string; alt: string }>
+  ctaLabel?: string
+  helperText?: string
   stripePaymentLink: string
 }
 
@@ -105,7 +108,7 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
         href="/workshops-and-classes"
         className="mb-8 inline-flex text-xs uppercase tracking-[0.24em] text-muted-foreground transition-colors hover:text-foreground"
       >
-        Back to workshops
+        Natrag na radionice
       </Link>
       <div className="grid items-start gap-8 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)] lg:gap-12">
         <DetailMediaRail title={workshop.title} gallery={workshop.gallery} />
@@ -114,13 +117,17 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
           <DetailPurchasePanel
             title={workshop.title}
             price={workshop.price}
+            priceLabel={workshop.priceLabel}
             badge={workshop.format}
             subBadge={workshop.level}
             shortDescription={workshop.shortDescription}
             purchaseOptions={purchaseOptions}
-            ctaLabel="Reserve via Stripe"
+            ctaLabel={workshop.ctaLabel ?? "Reserve via Stripe"}
             stripePaymentLink={workshop.stripePaymentLink}
-            helperText="Secure checkout in Stripe. Each workshop booking is a separate payment."
+            helperText={
+              workshop.helperText ??
+              "Secure checkout in Stripe. Each workshop booking is a separate payment."
+            }
           />
         </aside>
       </div>
@@ -128,7 +135,7 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
       <div className="mt-10 space-y-8">
         <DetailAccordionSections sections={accordionSections} />
         <DetailEditorialSplit sections={editorialSections} />
-        <DetailRelatedItems heading="You might also like" items={relatedItems} />
+        <DetailRelatedItems heading="Možda će ti se svidjeti" items={relatedItems} />
       </div>
     </section>
   )

@@ -5,8 +5,8 @@ import { WorkshopsHeroBlock } from "@/components/pages/workshops-and-classes/wor
 import { WorkshopsListBlock } from "@/components/pages/workshops-and-classes/workshops-list-block"
 
 export const metadata: Metadata = {
-  title: "Workshops & Classes | Atelier Amari",
-  description: "Explore hands-on pottery workshops and multi-session studio classes.",
+  title: "Paint & Sip Workshop | Atelier Amari",
+  description: "Paint & Sip radionica za žene u A’MARI Atelieru u Karlovcu.",
 }
 
 export default function WorkshopsAndClassesPage() {

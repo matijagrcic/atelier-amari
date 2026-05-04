@@ -1,9 +1,9 @@
 {
   "sectionId": "process",
   "eyebrow": "Studio process",
-  "headline": "From clay body to final kiln",
+  "headline": "From clay body and canvas ground to final surface",
   "primaryAction": {
-    "label": "Commission custom ceramics",
+    "label": "Commission a studio work",
     "href": "/commissions"
   },
   "secondaryAction": {
@@ -12,34 +12,34 @@
   },
   "gallery": [
     {
-      "src": "/images/home/process-throwing.svg",
-      "alt": "Hands shaping clay on a pottery wheel."
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-06-1200w.webp",
+      "alt": "Studio table with tools and materials ready for handwork."
     },
     {
-      "src": "/images/home/process-glazing.svg",
-      "alt": "Glaze being brushed onto a ceramic bowl."
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-04-1200w.webp",
+      "alt": "Atelier surface studies and works in progress arranged together."
     },
     {
-      "src": "/images/home/process-kiln.svg",
-      "alt": "Kiln shelves with pieces ready to fire."
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+      "alt": "Finished studio pieces and paintings displayed in the atelier."
     }
   ],
   "steps": [
     {
-      "title": "Forming",
-      "description": "Each object starts on the wheel or in slab construction, then rests to leather-hard."
+      "title": "Material study",
+      "description": "Each work begins with clay bodies, canvas grounds, palette tests, and a clear sense of where the surface should lead."
     },
     {
-      "title": "Trimming and bisque",
-      "description": "We refine foot rings, balance weight, and perform the first low-temperature firing."
+      "title": "Building and layering",
+      "description": "Forms are shaped by hand while paintings build through transparent washes, gesture, and slow tonal shifts."
     },
     {
-      "title": "Glazing",
-      "description": "Glaze is layered by dip and brush to create depth while preserving tactility."
+      "title": "Surface finishing",
+      "description": "Glaze, pigment, and edge details are refined until each piece carries the right balance of texture and restraint."
     },
     {
-      "title": "High-fire finish",
-      "description": "Final firing vitrifies the piece, locking in durability and a distinct surface response."
+      "title": "Final edit",
+      "description": "Ceramics move through firing and paintings through curing, then every piece is reviewed as part of the atelier edit."
     }
   ]
 }

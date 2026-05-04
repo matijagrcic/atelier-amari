@@ -1,7 +1,7 @@
 {
-  "eyebrow": "Ceramic atelier in Dubrovnik",
-  "headline": "Quiet objects for slow rituals and everyday beauty.",
-  "description": "We craft small-batch vessels, tableware, and sculptural pieces from local clay. Each object is shaped, fired, and glazed by hand in our sunlit studio.",
+  "eyebrow": "Ceramic and painting atelier in Dubrovnik",
+  "headline": "Quiet objects and expressive canvases for everyday beauty.",
+  "description": "We craft small-batch ceramics and original paintings in a sunlit studio shaped by clay, pigment, and slow coastal rituals.",
   "primaryAction": {
     "label": "Shop the collection",
     "href": "/shop"
@@ -11,17 +11,17 @@
     "href": "/commissions"
   },
   "highlights": [
-    "Small-batch releases",
-    "Food-safe glazes",
-    "Locally sourced clay"
+    "Original paintings",
+    "Small-batch ceramics",
+    "Studio-made editions"
   ],
   "featureCard": {
-    "title": "Spring Drop 02",
-    "subtitle": "18 pieces",
-    "description": "Porcelain bowls, textured mugs, and serving platters inspired by Adriatic stone and sea foam.",
+    "title": "Spring Studio Edit",
+    "subtitle": "Ceramics, paintings, and one-off works",
+    "description": "A seasonal edit of hand-built vessels, expressive canvases, and studio pieces inspired by Adriatic light.",
     "image": {
-      "src": "/images/home/hero-collection.svg",
-      "alt": "A curated set of handmade bowls and cups with matte glaze."
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-1200w.webp",
+      "alt": "Sunlit Atelier Amari studio with art materials and finished works."
     }
   }
 }

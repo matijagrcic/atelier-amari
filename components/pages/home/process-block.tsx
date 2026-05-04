@@ -41,6 +41,7 @@ export function ProcessBlock() {
                 src={image.src}
                 alt={image.alt}
                 fill
+                sizes="(min-width: 768px) 33vw, 100vw"
                 className="object-cover"
               />
             </AspectRatio>

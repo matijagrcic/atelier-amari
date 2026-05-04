@@ -9,6 +9,7 @@ export type PurchaseOption = {
 type DetailPurchasePanelProps = {
   title: string
   price: string
+  priceLabel?: string
   badge?: string
   subBadge?: string
   shortDescription: string
@@ -21,6 +22,7 @@ type DetailPurchasePanelProps = {
 export function DetailPurchasePanel({
   title,
   price,
+  priceLabel = "From",
   badge,
   subBadge,
   shortDescription,
@@ -29,6 +31,8 @@ export function DetailPurchasePanel({
   stripePaymentLink,
   helperText,
 }: DetailPurchasePanelProps) {
+  const isPlaceholderLink = !stripePaymentLink || stripePaymentLink === "#"
+
   return (
     <div className="space-y-4 rounded-2xl border border-border/70 bg-card/75 p-5 shadow-sm backdrop-blur md:p-6">
       <div className="space-y-2">
@@ -45,7 +49,7 @@ export function DetailPurchasePanel({
           ) : null}
         </div>
         <h1 className="font-serif text-3xl leading-tight md:text-4xl">{title}</h1>
-        <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">From</p>
+        <p className="text-sm uppercase tracking-[0.2em] text-muted-foreground">{priceLabel}</p>
         <p className="text-2xl font-semibold text-foreground/90">{price}</p>
       </div>
 
@@ -60,11 +64,17 @@ export function DetailPurchasePanel({
 
       <p className="text-sm leading-relaxed text-muted-foreground">{shortDescription}</p>
 
-      <Button asChild className="w-full rounded-full text-sm uppercase tracking-[0.16em]">
-        <a href={stripePaymentLink} target="_blank" rel="noopener noreferrer" aria-label={`${ctaLabel}: ${title}`}>
+      {isPlaceholderLink ? (
+        <Button disabled className="w-full rounded-full text-sm uppercase tracking-[0.16em]">
           {ctaLabel}
-        </a>
-      </Button>
+        </Button>
+      ) : (
+        <Button asChild className="w-full rounded-full text-sm uppercase tracking-[0.16em]">
+          <a href={stripePaymentLink} target="_blank" rel="noopener noreferrer" aria-label={`${ctaLabel}: ${title}`}>
+            {ctaLabel}
+          </a>
+        </Button>
+      )}
 
       <p className="text-xs leading-relaxed text-muted-foreground">{helperText}</p>
     </div>

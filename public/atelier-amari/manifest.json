@@ -1,0 +1,1816 @@
+{
+  "generatedAt": "2026-05-04T11:57:15.781Z",
+  "settings": {
+    "widths": [
+      480,
+      768,
+      1200,
+      1600,
+      2400
+    ],
+    "quality": 82,
+    "recursive": true,
+    "uploadR2": true
+  },
+  "images": [
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-01-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-01-480w.webp",
+          "bytes": 16236,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-01-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-01-768w.webp",
+          "bytes": 26174,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-01-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-01-1200w.webp",
+          "bytes": 44138,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-01-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-01-1600w.webp",
+          "bytes": 63502,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-01-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-01-2400w.webp",
+          "bytes": 141600,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-01-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-01-480w.webp 480w, atelier-amari-art-studio/atelier-amari-01-768w.webp 768w, atelier-amari-art-studio/atelier-amari-01-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-01-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-01-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-02-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-02-480w.webp",
+          "bytes": 25844,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-02-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-02-768w.webp",
+          "bytes": 44386,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-02-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-02-1200w.webp",
+          "bytes": 87356,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-02-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-02-1600w.webp",
+          "bytes": 175090,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-02-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-02-2400w.webp",
+          "bytes": 651522,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-02-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-02-480w.webp 480w, atelier-amari-art-studio/atelier-amari-02-768w.webp 768w, atelier-amari-art-studio/atelier-amari-02-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-02-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-02-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-03-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-03-480w.webp",
+          "bytes": 45510,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-03-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-03-768w.webp",
+          "bytes": 88180,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-03-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-03-1200w.webp",
+          "bytes": 166830,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-03-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-03-1600w.webp",
+          "bytes": 245054,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-03-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-03-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-03-2400w.webp",
+          "bytes": 442552,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-03-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-03-480w.webp 480w, atelier-amari-art-studio/atelier-amari-03-768w.webp 768w, atelier-amari-art-studio/atelier-amari-03-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-03-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-03-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-04-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-04-480w.webp",
+          "bytes": 91812,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-04-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-04-768w.webp",
+          "bytes": 173144,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-04-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-04-1200w.webp",
+          "bytes": 335700,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-04-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-04-1600w.webp",
+          "bytes": 506594,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-04-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-04-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-04-2400w.webp",
+          "bytes": 1080724,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-04-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-04-480w.webp 480w, atelier-amari-art-studio/atelier-amari-04-768w.webp 768w, atelier-amari-art-studio/atelier-amari-04-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-04-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-04-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-05.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-05-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-05-480w.webp",
+          "bytes": 91402,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-05-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-05-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-05-768w.webp",
+          "bytes": 190644,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-05-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-05-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-05-1200w.webp",
+          "bytes": 379014,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-05-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-05-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-05-1600w.webp",
+          "bytes": 581756,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-05-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-05-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-05-2400w.webp",
+          "bytes": 1280692,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-05-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-05-480w.webp 480w, atelier-amari-art-studio/atelier-amari-05-768w.webp 768w, atelier-amari-art-studio/atelier-amari-05-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-05-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-05-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-06.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-06-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-06-480w.webp",
+          "bytes": 86952,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-06-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-06-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-06-768w.webp",
+          "bytes": 179628,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-06-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-06-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-06-1200w.webp",
+          "bytes": 360244,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-06-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-06-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-06-1600w.webp",
+          "bytes": 551482,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-06-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "atelier-amari-art-studio/atelier-amari-06-2400w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-06-2400w.webp",
+          "bytes": 1209136,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-06-2400w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-06-480w.webp 480w, atelier-amari-art-studio/atelier-amari-06-768w.webp 768w, atelier-amari-art-studio/atelier-amari-06-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-06-1600w.webp 1600w, atelier-amari-art-studio/atelier-amari-06-2400w.webp 2400w"
+    },
+    {
+      "source": "atelier-amari-art-studio/atelier-amari-07.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "atelier-amari-art-studio/atelier-amari-07-480w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-07-480w.webp",
+          "bytes": 88844,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-07-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "atelier-amari-art-studio/atelier-amari-07-768w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-07-768w.webp",
+          "bytes": 300676,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-07-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+          "bytes": 755578,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-07-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "atelier-amari-art-studio/atelier-amari-07-1600w.webp",
+          "url": "atelier-amari-art-studio/atelier-amari-07-1600w.webp",
+          "bytes": 1236976,
+          "r2Key": "atelier-amari-art-studio/atelier-amari-07-1600w.webp"
+        }
+      ],
+      "srcset": "atelier-amari-art-studio/atelier-amari-07-480w.webp 480w, atelier-amari-art-studio/atelier-amari-07-768w.webp 768w, atelier-amari-art-studio/atelier-amari-07-1200w.webp 1200w, atelier-amari-art-studio/atelier-amari-07-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/awakening/awakening-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/awakening/awakening-01-480w.webp",
+          "url": "paintings/awakening/awakening-01-480w.webp",
+          "bytes": 75974,
+          "r2Key": "paintings/awakening/awakening-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/awakening/awakening-01-768w.webp",
+          "url": "paintings/awakening/awakening-01-768w.webp",
+          "bytes": 182778,
+          "r2Key": "paintings/awakening/awakening-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/awakening/awakening-01-1200w.webp",
+          "url": "paintings/awakening/awakening-01-1200w.webp",
+          "bytes": 379436,
+          "r2Key": "paintings/awakening/awakening-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/awakening/awakening-01-1600w.webp",
+          "url": "paintings/awakening/awakening-01-1600w.webp",
+          "bytes": 593134,
+          "r2Key": "paintings/awakening/awakening-01-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/awakening/awakening-01-480w.webp 480w, paintings/awakening/awakening-01-768w.webp 768w, paintings/awakening/awakening-01-1200w.webp 1200w, paintings/awakening/awakening-01-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/awakening/awakening-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/awakening/awakening-02-480w.webp",
+          "url": "paintings/awakening/awakening-02-480w.webp",
+          "bytes": 49844,
+          "r2Key": "paintings/awakening/awakening-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/awakening/awakening-02-768w.webp",
+          "url": "paintings/awakening/awakening-02-768w.webp",
+          "bytes": 105552,
+          "r2Key": "paintings/awakening/awakening-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/awakening/awakening-02-1200w.webp",
+          "url": "paintings/awakening/awakening-02-1200w.webp",
+          "bytes": 188392,
+          "r2Key": "paintings/awakening/awakening-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/awakening/awakening-02-1600w.webp",
+          "url": "paintings/awakening/awakening-02-1600w.webp",
+          "bytes": 271384,
+          "r2Key": "paintings/awakening/awakening-02-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/awakening/awakening-02-480w.webp 480w, paintings/awakening/awakening-02-768w.webp 768w, paintings/awakening/awakening-02-1200w.webp 1200w, paintings/awakening/awakening-02-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/awakening/awakening-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/awakening/awakening-03-480w.webp",
+          "url": "paintings/awakening/awakening-03-480w.webp",
+          "bytes": 60566,
+          "r2Key": "paintings/awakening/awakening-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/awakening/awakening-03-768w.webp",
+          "url": "paintings/awakening/awakening-03-768w.webp",
+          "bytes": 132590,
+          "r2Key": "paintings/awakening/awakening-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/awakening/awakening-03-1200w.webp",
+          "url": "paintings/awakening/awakening-03-1200w.webp",
+          "bytes": 250912,
+          "r2Key": "paintings/awakening/awakening-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/awakening/awakening-03-1600w.webp",
+          "url": "paintings/awakening/awakening-03-1600w.webp",
+          "bytes": 372092,
+          "r2Key": "paintings/awakening/awakening-03-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/awakening/awakening-03-480w.webp 480w, paintings/awakening/awakening-03-768w.webp 768w, paintings/awakening/awakening-03-1200w.webp 1200w, paintings/awakening/awakening-03-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/awakening/awakening-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/awakening/awakening-04-480w.webp",
+          "url": "paintings/awakening/awakening-04-480w.webp",
+          "bytes": 73964,
+          "r2Key": "paintings/awakening/awakening-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/awakening/awakening-04-768w.webp",
+          "url": "paintings/awakening/awakening-04-768w.webp",
+          "bytes": 181628,
+          "r2Key": "paintings/awakening/awakening-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/awakening/awakening-04-1200w.webp",
+          "url": "paintings/awakening/awakening-04-1200w.webp",
+          "bytes": 380864,
+          "r2Key": "paintings/awakening/awakening-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/awakening/awakening-04-1600w.webp",
+          "url": "paintings/awakening/awakening-04-1600w.webp",
+          "bytes": 591214,
+          "r2Key": "paintings/awakening/awakening-04-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/awakening/awakening-04-480w.webp 480w, paintings/awakening/awakening-04-768w.webp 768w, paintings/awakening/awakening-04-1200w.webp 1200w, paintings/awakening/awakening-04-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-01-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-01-480w.webp",
+          "bytes": 82950,
+          "r2Key": "paintings/azure-dreams/azure-dreams-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-01-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-01-768w.webp",
+          "bytes": 191314,
+          "r2Key": "paintings/azure-dreams/azure-dreams-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/azure-dreams/azure-dreams-01-1200w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-01-1200w.webp",
+          "bytes": 377072,
+          "r2Key": "paintings/azure-dreams/azure-dreams-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/azure-dreams/azure-dreams-01-1600w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-01-1600w.webp",
+          "bytes": 567144,
+          "r2Key": "paintings/azure-dreams/azure-dreams-01-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-01-480w.webp 480w, paintings/azure-dreams/azure-dreams-01-768w.webp 768w, paintings/azure-dreams/azure-dreams-01-1200w.webp 1200w, paintings/azure-dreams/azure-dreams-01-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-02.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-02-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-02-480w.webp",
+          "bytes": 47130,
+          "r2Key": "paintings/azure-dreams/azure-dreams-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-02-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-02-768w.webp",
+          "bytes": 115156,
+          "r2Key": "paintings/azure-dreams/azure-dreams-02-768w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-02-480w.webp 480w, paintings/azure-dreams/azure-dreams-02-768w.webp 768w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-03-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-03-480w.webp",
+          "bytes": 36428,
+          "r2Key": "paintings/azure-dreams/azure-dreams-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-03-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-03-768w.webp",
+          "bytes": 78506,
+          "r2Key": "paintings/azure-dreams/azure-dreams-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/azure-dreams/azure-dreams-03-1200w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-03-1200w.webp",
+          "bytes": 160886,
+          "r2Key": "paintings/azure-dreams/azure-dreams-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/azure-dreams/azure-dreams-03-1600w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-03-1600w.webp",
+          "bytes": 241400,
+          "r2Key": "paintings/azure-dreams/azure-dreams-03-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/azure-dreams/azure-dreams-03-2400w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-03-2400w.webp",
+          "bytes": 415132,
+          "r2Key": "paintings/azure-dreams/azure-dreams-03-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-03-480w.webp 480w, paintings/azure-dreams/azure-dreams-03-768w.webp 768w, paintings/azure-dreams/azure-dreams-03-1200w.webp 1200w, paintings/azure-dreams/azure-dreams-03-1600w.webp 1600w, paintings/azure-dreams/azure-dreams-03-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-04-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-04-480w.webp",
+          "bytes": 38616,
+          "r2Key": "paintings/azure-dreams/azure-dreams-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-04-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-04-768w.webp",
+          "bytes": 81538,
+          "r2Key": "paintings/azure-dreams/azure-dreams-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/azure-dreams/azure-dreams-04-1200w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-04-1200w.webp",
+          "bytes": 165922,
+          "r2Key": "paintings/azure-dreams/azure-dreams-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/azure-dreams/azure-dreams-04-1600w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-04-1600w.webp",
+          "bytes": 249878,
+          "r2Key": "paintings/azure-dreams/azure-dreams-04-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/azure-dreams/azure-dreams-04-2400w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-04-2400w.webp",
+          "bytes": 443356,
+          "r2Key": "paintings/azure-dreams/azure-dreams-04-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-04-480w.webp 480w, paintings/azure-dreams/azure-dreams-04-768w.webp 768w, paintings/azure-dreams/azure-dreams-04-1200w.webp 1200w, paintings/azure-dreams/azure-dreams-04-1600w.webp 1600w, paintings/azure-dreams/azure-dreams-04-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-05.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-05-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-05-480w.webp",
+          "bytes": 42012,
+          "r2Key": "paintings/azure-dreams/azure-dreams-05-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-05-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-05-768w.webp",
+          "bytes": 91174,
+          "r2Key": "paintings/azure-dreams/azure-dreams-05-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/azure-dreams/azure-dreams-05-1200w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-05-1200w.webp",
+          "bytes": 181180,
+          "r2Key": "paintings/azure-dreams/azure-dreams-05-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/azure-dreams/azure-dreams-05-1600w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-05-1600w.webp",
+          "bytes": 275110,
+          "r2Key": "paintings/azure-dreams/azure-dreams-05-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/azure-dreams/azure-dreams-05-2400w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-05-2400w.webp",
+          "bytes": 493748,
+          "r2Key": "paintings/azure-dreams/azure-dreams-05-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-05-480w.webp 480w, paintings/azure-dreams/azure-dreams-05-768w.webp 768w, paintings/azure-dreams/azure-dreams-05-1200w.webp 1200w, paintings/azure-dreams/azure-dreams-05-1600w.webp 1600w, paintings/azure-dreams/azure-dreams-05-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/azure-dreams/azure-dreams-06.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/azure-dreams/azure-dreams-06-480w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-06-480w.webp",
+          "bytes": 49096,
+          "r2Key": "paintings/azure-dreams/azure-dreams-06-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/azure-dreams/azure-dreams-06-768w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-06-768w.webp",
+          "bytes": 117218,
+          "r2Key": "paintings/azure-dreams/azure-dreams-06-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/azure-dreams/azure-dreams-06-1200w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-06-1200w.webp",
+          "bytes": 248158,
+          "r2Key": "paintings/azure-dreams/azure-dreams-06-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/azure-dreams/azure-dreams-06-1600w.webp",
+          "url": "paintings/azure-dreams/azure-dreams-06-1600w.webp",
+          "bytes": 391162,
+          "r2Key": "paintings/azure-dreams/azure-dreams-06-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/azure-dreams/azure-dreams-06-480w.webp 480w, paintings/azure-dreams/azure-dreams-06-768w.webp 768w, paintings/azure-dreams/azure-dreams-06-1200w.webp 1200w, paintings/azure-dreams/azure-dreams-06-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/coral-dreams/coral-dreams-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/coral-dreams/coral-dreams-01-480w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-01-480w.webp",
+          "bytes": 58880,
+          "r2Key": "paintings/coral-dreams/coral-dreams-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/coral-dreams/coral-dreams-01-768w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-01-768w.webp",
+          "bytes": 126028,
+          "r2Key": "paintings/coral-dreams/coral-dreams-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/coral-dreams/coral-dreams-01-1200w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-01-1200w.webp",
+          "bytes": 271332,
+          "r2Key": "paintings/coral-dreams/coral-dreams-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/coral-dreams/coral-dreams-01-1600w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-01-1600w.webp",
+          "bytes": 419752,
+          "r2Key": "paintings/coral-dreams/coral-dreams-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/coral-dreams/coral-dreams-01-2400w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-01-2400w.webp",
+          "bytes": 849688,
+          "r2Key": "paintings/coral-dreams/coral-dreams-01-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/coral-dreams/coral-dreams-01-480w.webp 480w, paintings/coral-dreams/coral-dreams-01-768w.webp 768w, paintings/coral-dreams/coral-dreams-01-1200w.webp 1200w, paintings/coral-dreams/coral-dreams-01-1600w.webp 1600w, paintings/coral-dreams/coral-dreams-01-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/coral-dreams/coral-dreams-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/coral-dreams/coral-dreams-02-480w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-02-480w.webp",
+          "bytes": 31620,
+          "r2Key": "paintings/coral-dreams/coral-dreams-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/coral-dreams/coral-dreams-02-768w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-02-768w.webp",
+          "bytes": 55368,
+          "r2Key": "paintings/coral-dreams/coral-dreams-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/coral-dreams/coral-dreams-02-1200w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-02-1200w.webp",
+          "bytes": 99318,
+          "r2Key": "paintings/coral-dreams/coral-dreams-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/coral-dreams/coral-dreams-02-1600w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-02-1600w.webp",
+          "bytes": 142774,
+          "r2Key": "paintings/coral-dreams/coral-dreams-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/coral-dreams/coral-dreams-02-2400w.webp",
+          "url": "paintings/coral-dreams/coral-dreams-02-2400w.webp",
+          "bytes": 264944,
+          "r2Key": "paintings/coral-dreams/coral-dreams-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/coral-dreams/coral-dreams-02-480w.webp 480w, paintings/coral-dreams/coral-dreams-02-768w.webp 768w, paintings/coral-dreams/coral-dreams-02-1200w.webp 1200w, paintings/coral-dreams/coral-dreams-02-1600w.webp 1600w, paintings/coral-dreams/coral-dreams-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/dream-come-true/dream-come-true-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/dream-come-true/dream-come-true-01-480w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-01-480w.webp",
+          "bytes": 21252,
+          "r2Key": "paintings/dream-come-true/dream-come-true-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/dream-come-true/dream-come-true-01-768w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-01-768w.webp",
+          "bytes": 35286,
+          "r2Key": "paintings/dream-come-true/dream-come-true-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/dream-come-true/dream-come-true-01-1200w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-01-1200w.webp",
+          "bytes": 60174,
+          "r2Key": "paintings/dream-come-true/dream-come-true-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/dream-come-true/dream-come-true-01-1600w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-01-1600w.webp",
+          "bytes": 89596,
+          "r2Key": "paintings/dream-come-true/dream-come-true-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/dream-come-true/dream-come-true-01-2400w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-01-2400w.webp",
+          "bytes": 204382,
+          "r2Key": "paintings/dream-come-true/dream-come-true-01-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/dream-come-true/dream-come-true-01-480w.webp 480w, paintings/dream-come-true/dream-come-true-01-768w.webp 768w, paintings/dream-come-true/dream-come-true-01-1200w.webp 1200w, paintings/dream-come-true/dream-come-true-01-1600w.webp 1600w, paintings/dream-come-true/dream-come-true-01-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/dream-come-true/dream-come-true-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/dream-come-true/dream-come-true-02-480w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-02-480w.webp",
+          "bytes": 52768,
+          "r2Key": "paintings/dream-come-true/dream-come-true-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/dream-come-true/dream-come-true-02-768w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-02-768w.webp",
+          "bytes": 119772,
+          "r2Key": "paintings/dream-come-true/dream-come-true-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/dream-come-true/dream-come-true-02-1200w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-02-1200w.webp",
+          "bytes": 275304,
+          "r2Key": "paintings/dream-come-true/dream-come-true-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/dream-come-true/dream-come-true-02-1600w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-02-1600w.webp",
+          "bytes": 441352,
+          "r2Key": "paintings/dream-come-true/dream-come-true-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/dream-come-true/dream-come-true-02-2400w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-02-2400w.webp",
+          "bytes": 966120,
+          "r2Key": "paintings/dream-come-true/dream-come-true-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/dream-come-true/dream-come-true-02-480w.webp 480w, paintings/dream-come-true/dream-come-true-02-768w.webp 768w, paintings/dream-come-true/dream-come-true-02-1200w.webp 1200w, paintings/dream-come-true/dream-come-true-02-1600w.webp 1600w, paintings/dream-come-true/dream-come-true-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/dream-come-true/dream-come-true-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/dream-come-true/dream-come-true-03-480w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-03-480w.webp",
+          "bytes": 18816,
+          "r2Key": "paintings/dream-come-true/dream-come-true-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/dream-come-true/dream-come-true-03-768w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-03-768w.webp",
+          "bytes": 31948,
+          "r2Key": "paintings/dream-come-true/dream-come-true-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/dream-come-true/dream-come-true-03-1200w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-03-1200w.webp",
+          "bytes": 57618,
+          "r2Key": "paintings/dream-come-true/dream-come-true-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/dream-come-true/dream-come-true-03-1600w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-03-1600w.webp",
+          "bytes": 82042,
+          "r2Key": "paintings/dream-come-true/dream-come-true-03-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/dream-come-true/dream-come-true-03-2400w.webp",
+          "url": "paintings/dream-come-true/dream-come-true-03-2400w.webp",
+          "bytes": 169326,
+          "r2Key": "paintings/dream-come-true/dream-come-true-03-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/dream-come-true/dream-come-true-03-480w.webp 480w, paintings/dream-come-true/dream-come-true-03-768w.webp 768w, paintings/dream-come-true/dream-come-true-03-1200w.webp 1200w, paintings/dream-come-true/dream-come-true-03-1600w.webp 1600w, paintings/dream-come-true/dream-come-true-03-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/flower-scent/flower-scent-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/flower-scent/flower-scent-01-480w.webp",
+          "url": "paintings/flower-scent/flower-scent-01-480w.webp",
+          "bytes": 13718,
+          "r2Key": "paintings/flower-scent/flower-scent-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/flower-scent/flower-scent-01-768w.webp",
+          "url": "paintings/flower-scent/flower-scent-01-768w.webp",
+          "bytes": 23606,
+          "r2Key": "paintings/flower-scent/flower-scent-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/flower-scent/flower-scent-01-1200w.webp",
+          "url": "paintings/flower-scent/flower-scent-01-1200w.webp",
+          "bytes": 40126,
+          "r2Key": "paintings/flower-scent/flower-scent-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/flower-scent/flower-scent-01-1600w.webp",
+          "url": "paintings/flower-scent/flower-scent-01-1600w.webp",
+          "bytes": 56700,
+          "r2Key": "paintings/flower-scent/flower-scent-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/flower-scent/flower-scent-01-2400w.webp",
+          "url": "paintings/flower-scent/flower-scent-01-2400w.webp",
+          "bytes": 96900,
+          "r2Key": "paintings/flower-scent/flower-scent-01-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/flower-scent/flower-scent-01-480w.webp 480w, paintings/flower-scent/flower-scent-01-768w.webp 768w, paintings/flower-scent/flower-scent-01-1200w.webp 1200w, paintings/flower-scent/flower-scent-01-1600w.webp 1600w, paintings/flower-scent/flower-scent-01-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/flower-scent/flower-scent-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/flower-scent/flower-scent-02-480w.webp",
+          "url": "paintings/flower-scent/flower-scent-02-480w.webp",
+          "bytes": 15350,
+          "r2Key": "paintings/flower-scent/flower-scent-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/flower-scent/flower-scent-02-768w.webp",
+          "url": "paintings/flower-scent/flower-scent-02-768w.webp",
+          "bytes": 27080,
+          "r2Key": "paintings/flower-scent/flower-scent-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/flower-scent/flower-scent-02-1200w.webp",
+          "url": "paintings/flower-scent/flower-scent-02-1200w.webp",
+          "bytes": 47722,
+          "r2Key": "paintings/flower-scent/flower-scent-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/flower-scent/flower-scent-02-1600w.webp",
+          "url": "paintings/flower-scent/flower-scent-02-1600w.webp",
+          "bytes": 67802,
+          "r2Key": "paintings/flower-scent/flower-scent-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/flower-scent/flower-scent-02-2400w.webp",
+          "url": "paintings/flower-scent/flower-scent-02-2400w.webp",
+          "bytes": 115936,
+          "r2Key": "paintings/flower-scent/flower-scent-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/flower-scent/flower-scent-02-480w.webp 480w, paintings/flower-scent/flower-scent-02-768w.webp 768w, paintings/flower-scent/flower-scent-02-1200w.webp 1200w, paintings/flower-scent/flower-scent-02-1600w.webp 1600w, paintings/flower-scent/flower-scent-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/flower-scent/flower-scent-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/flower-scent/flower-scent-03-480w.webp",
+          "url": "paintings/flower-scent/flower-scent-03-480w.webp",
+          "bytes": 34832,
+          "r2Key": "paintings/flower-scent/flower-scent-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/flower-scent/flower-scent-03-768w.webp",
+          "url": "paintings/flower-scent/flower-scent-03-768w.webp",
+          "bytes": 62994,
+          "r2Key": "paintings/flower-scent/flower-scent-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/flower-scent/flower-scent-03-1200w.webp",
+          "url": "paintings/flower-scent/flower-scent-03-1200w.webp",
+          "bytes": 116622,
+          "r2Key": "paintings/flower-scent/flower-scent-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/flower-scent/flower-scent-03-1600w.webp",
+          "url": "paintings/flower-scent/flower-scent-03-1600w.webp",
+          "bytes": 166280,
+          "r2Key": "paintings/flower-scent/flower-scent-03-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/flower-scent/flower-scent-03-2400w.webp",
+          "url": "paintings/flower-scent/flower-scent-03-2400w.webp",
+          "bytes": 280676,
+          "r2Key": "paintings/flower-scent/flower-scent-03-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/flower-scent/flower-scent-03-480w.webp 480w, paintings/flower-scent/flower-scent-03-768w.webp 768w, paintings/flower-scent/flower-scent-03-1200w.webp 1200w, paintings/flower-scent/flower-scent-03-1600w.webp 1600w, paintings/flower-scent/flower-scent-03-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/flower-scent/flower-scent-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/flower-scent/flower-scent-04-480w.webp",
+          "url": "paintings/flower-scent/flower-scent-04-480w.webp",
+          "bytes": 38454,
+          "r2Key": "paintings/flower-scent/flower-scent-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/flower-scent/flower-scent-04-768w.webp",
+          "url": "paintings/flower-scent/flower-scent-04-768w.webp",
+          "bytes": 92950,
+          "r2Key": "paintings/flower-scent/flower-scent-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/flower-scent/flower-scent-04-1200w.webp",
+          "url": "paintings/flower-scent/flower-scent-04-1200w.webp",
+          "bytes": 229690,
+          "r2Key": "paintings/flower-scent/flower-scent-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/flower-scent/flower-scent-04-1600w.webp",
+          "url": "paintings/flower-scent/flower-scent-04-1600w.webp",
+          "bytes": 387524,
+          "r2Key": "paintings/flower-scent/flower-scent-04-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/flower-scent/flower-scent-04-2400w.webp",
+          "url": "paintings/flower-scent/flower-scent-04-2400w.webp",
+          "bytes": 861170,
+          "r2Key": "paintings/flower-scent/flower-scent-04-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/flower-scent/flower-scent-04-480w.webp 480w, paintings/flower-scent/flower-scent-04-768w.webp 768w, paintings/flower-scent/flower-scent-04-1200w.webp 1200w, paintings/flower-scent/flower-scent-04-1600w.webp 1600w, paintings/flower-scent/flower-scent-04-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/flower-scent/flower-scent-05.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/flower-scent/flower-scent-05-480w.webp",
+          "url": "paintings/flower-scent/flower-scent-05-480w.webp",
+          "bytes": 38318,
+          "r2Key": "paintings/flower-scent/flower-scent-05-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/flower-scent/flower-scent-05-768w.webp",
+          "url": "paintings/flower-scent/flower-scent-05-768w.webp",
+          "bytes": 99216,
+          "r2Key": "paintings/flower-scent/flower-scent-05-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/flower-scent/flower-scent-05-1200w.webp",
+          "url": "paintings/flower-scent/flower-scent-05-1200w.webp",
+          "bytes": 247096,
+          "r2Key": "paintings/flower-scent/flower-scent-05-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/flower-scent/flower-scent-05-1600w.webp",
+          "url": "paintings/flower-scent/flower-scent-05-1600w.webp",
+          "bytes": 394472,
+          "r2Key": "paintings/flower-scent/flower-scent-05-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/flower-scent/flower-scent-05-480w.webp 480w, paintings/flower-scent/flower-scent-05-768w.webp 768w, paintings/flower-scent/flower-scent-05-1200w.webp 1200w, paintings/flower-scent/flower-scent-05-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/harmony-in-pink/harmony-in-pink-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-01-480w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-01-480w.webp",
+          "bytes": 55852,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-01-768w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-01-768w.webp",
+          "bytes": 126942,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-01-1200w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-01-1200w.webp",
+          "bytes": 259656,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-01-1600w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-01-1600w.webp",
+          "bytes": 405504,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-01-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/harmony-in-pink/harmony-in-pink-01-480w.webp 480w, paintings/harmony-in-pink/harmony-in-pink-01-768w.webp 768w, paintings/harmony-in-pink/harmony-in-pink-01-1200w.webp 1200w, paintings/harmony-in-pink/harmony-in-pink-01-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/harmony-in-pink/harmony-in-pink-02.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-02-480w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-02-480w.webp",
+          "bytes": 69454,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-02-768w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-02-768w.webp",
+          "bytes": 162016,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-02-768w.webp"
+        }
+      ],
+      "srcset": "paintings/harmony-in-pink/harmony-in-pink-02-480w.webp 480w, paintings/harmony-in-pink/harmony-in-pink-02-768w.webp 768w"
+    },
+    {
+      "source": "paintings/harmony-in-pink/harmony-in-pink-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-03-480w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-03-480w.webp",
+          "bytes": 63940,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-03-768w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-03-768w.webp",
+          "bytes": 148708,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-03-1200w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-03-1200w.webp",
+          "bytes": 316428,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/harmony-in-pink/harmony-in-pink-03-1600w.webp",
+          "url": "paintings/harmony-in-pink/harmony-in-pink-03-1600w.webp",
+          "bytes": 509974,
+          "r2Key": "paintings/harmony-in-pink/harmony-in-pink-03-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/harmony-in-pink/harmony-in-pink-03-480w.webp 480w, paintings/harmony-in-pink/harmony-in-pink-03-768w.webp 768w, paintings/harmony-in-pink/harmony-in-pink-03-1200w.webp 1200w, paintings/harmony-in-pink/harmony-in-pink-03-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/purple-beauties/purple-beauties-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-beauties/purple-beauties-01-480w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-01-480w.webp",
+          "bytes": 95204,
+          "r2Key": "paintings/purple-beauties/purple-beauties-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-beauties/purple-beauties-01-768w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-01-768w.webp",
+          "bytes": 188344,
+          "r2Key": "paintings/purple-beauties/purple-beauties-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-beauties/purple-beauties-01-1200w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-01-1200w.webp",
+          "bytes": 406556,
+          "r2Key": "paintings/purple-beauties/purple-beauties-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-beauties/purple-beauties-01-1600w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-01-1600w.webp",
+          "bytes": 686650,
+          "r2Key": "paintings/purple-beauties/purple-beauties-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-beauties/purple-beauties-01-2400w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-01-2400w.webp",
+          "bytes": 1719008,
+          "r2Key": "paintings/purple-beauties/purple-beauties-01-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-beauties/purple-beauties-01-480w.webp 480w, paintings/purple-beauties/purple-beauties-01-768w.webp 768w, paintings/purple-beauties/purple-beauties-01-1200w.webp 1200w, paintings/purple-beauties/purple-beauties-01-1600w.webp 1600w, paintings/purple-beauties/purple-beauties-01-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-beauties/purple-beauties-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-beauties/purple-beauties-02-480w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-02-480w.webp",
+          "bytes": 87780,
+          "r2Key": "paintings/purple-beauties/purple-beauties-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-beauties/purple-beauties-02-768w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-02-768w.webp",
+          "bytes": 169526,
+          "r2Key": "paintings/purple-beauties/purple-beauties-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-beauties/purple-beauties-02-1200w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-02-1200w.webp",
+          "bytes": 345798,
+          "r2Key": "paintings/purple-beauties/purple-beauties-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-beauties/purple-beauties-02-1600w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-02-1600w.webp",
+          "bytes": 580546,
+          "r2Key": "paintings/purple-beauties/purple-beauties-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-beauties/purple-beauties-02-2400w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-02-2400w.webp",
+          "bytes": 1386222,
+          "r2Key": "paintings/purple-beauties/purple-beauties-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-beauties/purple-beauties-02-480w.webp 480w, paintings/purple-beauties/purple-beauties-02-768w.webp 768w, paintings/purple-beauties/purple-beauties-02-1200w.webp 1200w, paintings/purple-beauties/purple-beauties-02-1600w.webp 1600w, paintings/purple-beauties/purple-beauties-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-beauties/purple-beauties-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-beauties/purple-beauties-03-480w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-03-480w.webp",
+          "bytes": 38084,
+          "r2Key": "paintings/purple-beauties/purple-beauties-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-beauties/purple-beauties-03-768w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-03-768w.webp",
+          "bytes": 87452,
+          "r2Key": "paintings/purple-beauties/purple-beauties-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-beauties/purple-beauties-03-1200w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-03-1200w.webp",
+          "bytes": 215728,
+          "r2Key": "paintings/purple-beauties/purple-beauties-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-beauties/purple-beauties-03-1600w.webp",
+          "url": "paintings/purple-beauties/purple-beauties-03-1600w.webp",
+          "bytes": 336378,
+          "r2Key": "paintings/purple-beauties/purple-beauties-03-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-beauties/purple-beauties-03-480w.webp 480w, paintings/purple-beauties/purple-beauties-03-768w.webp 768w, paintings/purple-beauties/purple-beauties-03-1200w.webp 1200w, paintings/purple-beauties/purple-beauties-03-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-01.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-01-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-01-480w.webp",
+          "bytes": 38304,
+          "r2Key": "paintings/purple-dreams/purple-dreams-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-01-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-01-768w.webp",
+          "bytes": 85244,
+          "r2Key": "paintings/purple-dreams/purple-dreams-01-768w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-01-480w.webp 480w, paintings/purple-dreams/purple-dreams-01-768w.webp 768w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-02-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-02-480w.webp",
+          "bytes": 44966,
+          "r2Key": "paintings/purple-dreams/purple-dreams-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-02-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-02-768w.webp",
+          "bytes": 92622,
+          "r2Key": "paintings/purple-dreams/purple-dreams-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-02-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-02-1200w.webp",
+          "bytes": 191526,
+          "r2Key": "paintings/purple-dreams/purple-dreams-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-02-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-02-1600w.webp",
+          "bytes": 295678,
+          "r2Key": "paintings/purple-dreams/purple-dreams-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-dreams/purple-dreams-02-2400w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-02-2400w.webp",
+          "bytes": 528044,
+          "r2Key": "paintings/purple-dreams/purple-dreams-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-02-480w.webp 480w, paintings/purple-dreams/purple-dreams-02-768w.webp 768w, paintings/purple-dreams/purple-dreams-02-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-02-1600w.webp 1600w, paintings/purple-dreams/purple-dreams-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-03-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-03-480w.webp",
+          "bytes": 46280,
+          "r2Key": "paintings/purple-dreams/purple-dreams-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-03-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-03-768w.webp",
+          "bytes": 98714,
+          "r2Key": "paintings/purple-dreams/purple-dreams-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-03-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-03-1200w.webp",
+          "bytes": 199262,
+          "r2Key": "paintings/purple-dreams/purple-dreams-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-03-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-03-1600w.webp",
+          "bytes": 302184,
+          "r2Key": "paintings/purple-dreams/purple-dreams-03-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-dreams/purple-dreams-03-2400w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-03-2400w.webp",
+          "bytes": 564346,
+          "r2Key": "paintings/purple-dreams/purple-dreams-03-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-03-480w.webp 480w, paintings/purple-dreams/purple-dreams-03-768w.webp 768w, paintings/purple-dreams/purple-dreams-03-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-03-1600w.webp 1600w, paintings/purple-dreams/purple-dreams-03-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-04-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-04-480w.webp",
+          "bytes": 45284,
+          "r2Key": "paintings/purple-dreams/purple-dreams-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-04-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-04-768w.webp",
+          "bytes": 96696,
+          "r2Key": "paintings/purple-dreams/purple-dreams-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-04-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-04-1200w.webp",
+          "bytes": 195222,
+          "r2Key": "paintings/purple-dreams/purple-dreams-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-04-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-04-1600w.webp",
+          "bytes": 300488,
+          "r2Key": "paintings/purple-dreams/purple-dreams-04-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-dreams/purple-dreams-04-2400w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-04-2400w.webp",
+          "bytes": 549456,
+          "r2Key": "paintings/purple-dreams/purple-dreams-04-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-04-480w.webp 480w, paintings/purple-dreams/purple-dreams-04-768w.webp 768w, paintings/purple-dreams/purple-dreams-04-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-04-1600w.webp 1600w, paintings/purple-dreams/purple-dreams-04-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-05.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-05-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-05-480w.webp",
+          "bytes": 36864,
+          "r2Key": "paintings/purple-dreams/purple-dreams-05-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-05-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-05-768w.webp",
+          "bytes": 64634,
+          "r2Key": "paintings/purple-dreams/purple-dreams-05-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-05-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-05-1200w.webp",
+          "bytes": 117830,
+          "r2Key": "paintings/purple-dreams/purple-dreams-05-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-05-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-05-1600w.webp",
+          "bytes": 172574,
+          "r2Key": "paintings/purple-dreams/purple-dreams-05-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-dreams/purple-dreams-05-2400w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-05-2400w.webp",
+          "bytes": 380238,
+          "r2Key": "paintings/purple-dreams/purple-dreams-05-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-05-480w.webp 480w, paintings/purple-dreams/purple-dreams-05-768w.webp 768w, paintings/purple-dreams/purple-dreams-05-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-05-1600w.webp 1600w, paintings/purple-dreams/purple-dreams-05-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-06.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-06-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-06-480w.webp",
+          "bytes": 61044,
+          "r2Key": "paintings/purple-dreams/purple-dreams-06-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-06-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-06-768w.webp",
+          "bytes": 124160,
+          "r2Key": "paintings/purple-dreams/purple-dreams-06-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-06-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-06-1200w.webp",
+          "bytes": 258606,
+          "r2Key": "paintings/purple-dreams/purple-dreams-06-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-06-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-06-1600w.webp",
+          "bytes": 390680,
+          "r2Key": "paintings/purple-dreams/purple-dreams-06-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/purple-dreams/purple-dreams-06-2400w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-06-2400w.webp",
+          "bytes": 838378,
+          "r2Key": "paintings/purple-dreams/purple-dreams-06-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-06-480w.webp 480w, paintings/purple-dreams/purple-dreams-06-768w.webp 768w, paintings/purple-dreams/purple-dreams-06-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-06-1600w.webp 1600w, paintings/purple-dreams/purple-dreams-06-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/purple-dreams/purple-dreams-07.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/purple-dreams/purple-dreams-07-480w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-07-480w.webp",
+          "bytes": 52858,
+          "r2Key": "paintings/purple-dreams/purple-dreams-07-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/purple-dreams/purple-dreams-07-768w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-07-768w.webp",
+          "bytes": 129886,
+          "r2Key": "paintings/purple-dreams/purple-dreams-07-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/purple-dreams/purple-dreams-07-1200w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-07-1200w.webp",
+          "bytes": 279156,
+          "r2Key": "paintings/purple-dreams/purple-dreams-07-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/purple-dreams/purple-dreams-07-1600w.webp",
+          "url": "paintings/purple-dreams/purple-dreams-07-1600w.webp",
+          "bytes": 441384,
+          "r2Key": "paintings/purple-dreams/purple-dreams-07-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/purple-dreams/purple-dreams-07-480w.webp 480w, paintings/purple-dreams/purple-dreams-07-768w.webp 768w, paintings/purple-dreams/purple-dreams-07-1200w.webp 1200w, paintings/purple-dreams/purple-dreams-07-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/spring/spring-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-01-480w.webp",
+          "url": "paintings/spring/spring-01-480w.webp",
+          "bytes": 96152,
+          "r2Key": "paintings/spring/spring-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-01-768w.webp",
+          "url": "paintings/spring/spring-01-768w.webp",
+          "bytes": 220442,
+          "r2Key": "paintings/spring/spring-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/spring/spring-01-1200w.webp",
+          "url": "paintings/spring/spring-01-1200w.webp",
+          "bytes": 454126,
+          "r2Key": "paintings/spring/spring-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/spring/spring-01-1600w.webp",
+          "url": "paintings/spring/spring-01-1600w.webp",
+          "bytes": 707996,
+          "r2Key": "paintings/spring/spring-01-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-01-480w.webp 480w, paintings/spring/spring-01-768w.webp 768w, paintings/spring/spring-01-1200w.webp 1200w, paintings/spring/spring-01-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/spring/spring-02.png",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-02-480w.webp",
+          "url": "paintings/spring/spring-02-480w.webp",
+          "bytes": 55014,
+          "r2Key": "paintings/spring/spring-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-02-768w.webp",
+          "url": "paintings/spring/spring-02-768w.webp",
+          "bytes": 122432,
+          "r2Key": "paintings/spring/spring-02-768w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-02-480w.webp 480w, paintings/spring/spring-02-768w.webp 768w"
+    },
+    {
+      "source": "paintings/spring/spring-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-03-480w.webp",
+          "url": "paintings/spring/spring-03-480w.webp",
+          "bytes": 73546,
+          "r2Key": "paintings/spring/spring-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-03-768w.webp",
+          "url": "paintings/spring/spring-03-768w.webp",
+          "bytes": 176516,
+          "r2Key": "paintings/spring/spring-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/spring/spring-03-1200w.webp",
+          "url": "paintings/spring/spring-03-1200w.webp",
+          "bytes": 383260,
+          "r2Key": "paintings/spring/spring-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/spring/spring-03-1600w.webp",
+          "url": "paintings/spring/spring-03-1600w.webp",
+          "bytes": 622866,
+          "r2Key": "paintings/spring/spring-03-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-03-480w.webp 480w, paintings/spring/spring-03-768w.webp 768w, paintings/spring/spring-03-1200w.webp 1200w, paintings/spring/spring-03-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/spring/spring-04.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-04-480w.webp",
+          "url": "paintings/spring/spring-04-480w.webp",
+          "bytes": 73450,
+          "r2Key": "paintings/spring/spring-04-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-04-768w.webp",
+          "url": "paintings/spring/spring-04-768w.webp",
+          "bytes": 179144,
+          "r2Key": "paintings/spring/spring-04-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/spring/spring-04-1200w.webp",
+          "url": "paintings/spring/spring-04-1200w.webp",
+          "bytes": 391834,
+          "r2Key": "paintings/spring/spring-04-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/spring/spring-04-1600w.webp",
+          "url": "paintings/spring/spring-04-1600w.webp",
+          "bytes": 622342,
+          "r2Key": "paintings/spring/spring-04-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-04-480w.webp 480w, paintings/spring/spring-04-768w.webp 768w, paintings/spring/spring-04-1200w.webp 1200w, paintings/spring/spring-04-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/spring/spring-05.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-05-480w.webp",
+          "url": "paintings/spring/spring-05-480w.webp",
+          "bytes": 78150,
+          "r2Key": "paintings/spring/spring-05-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-05-768w.webp",
+          "url": "paintings/spring/spring-05-768w.webp",
+          "bytes": 184344,
+          "r2Key": "paintings/spring/spring-05-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/spring/spring-05-1200w.webp",
+          "url": "paintings/spring/spring-05-1200w.webp",
+          "bytes": 364510,
+          "r2Key": "paintings/spring/spring-05-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/spring/spring-05-1600w.webp",
+          "url": "paintings/spring/spring-05-1600w.webp",
+          "bytes": 534802,
+          "r2Key": "paintings/spring/spring-05-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-05-480w.webp 480w, paintings/spring/spring-05-768w.webp 768w, paintings/spring/spring-05-1200w.webp 1200w, paintings/spring/spring-05-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/spring/spring-06.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/spring/spring-06-480w.webp",
+          "url": "paintings/spring/spring-06-480w.webp",
+          "bytes": 96152,
+          "r2Key": "paintings/spring/spring-06-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/spring/spring-06-768w.webp",
+          "url": "paintings/spring/spring-06-768w.webp",
+          "bytes": 220442,
+          "r2Key": "paintings/spring/spring-06-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/spring/spring-06-1200w.webp",
+          "url": "paintings/spring/spring-06-1200w.webp",
+          "bytes": 454126,
+          "r2Key": "paintings/spring/spring-06-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/spring/spring-06-1600w.webp",
+          "url": "paintings/spring/spring-06-1600w.webp",
+          "bytes": 707996,
+          "r2Key": "paintings/spring/spring-06-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/spring/spring-06-480w.webp 480w, paintings/spring/spring-06-768w.webp 768w, paintings/spring/spring-06-1200w.webp 1200w, paintings/spring/spring-06-1600w.webp 1600w"
+    },
+    {
+      "source": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-480w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-480w.webp",
+          "bytes": 14200,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-768w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-768w.webp",
+          "bytes": 26106,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1200w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1200w.webp",
+          "bytes": 47620,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1600w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1600w.webp",
+          "bytes": 68874,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-2400w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-2400w.webp",
+          "bytes": 120318,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-480w.webp 480w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-768w.webp 768w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1200w.webp 1200w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-1600w.webp 1600w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-01-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-480w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-480w.webp",
+          "bytes": 39884,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-768w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-768w.webp",
+          "bytes": 80524,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1200w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1200w.webp",
+          "bytes": 176504,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1600w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1600w.webp",
+          "bytes": 288652,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1600w.webp"
+        },
+        {
+          "width": 2400,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-2400w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-2400w.webp",
+          "bytes": 697848,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-2400w.webp"
+        }
+      ],
+      "srcset": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-480w.webp 480w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-768w.webp 768w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1200w.webp 1200w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-1600w.webp 1600w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-02-2400w.webp 2400w"
+    },
+    {
+      "source": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03.jpg",
+      "variants": [
+        {
+          "width": 480,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-480w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-480w.webp",
+          "bytes": 46748,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-480w.webp"
+        },
+        {
+          "width": 768,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-768w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-768w.webp",
+          "bytes": 105212,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-768w.webp"
+        },
+        {
+          "width": 1200,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1200w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1200w.webp",
+          "bytes": 215800,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1200w.webp"
+        },
+        {
+          "width": 1600,
+          "path": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1600w.webp",
+          "url": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1600w.webp",
+          "bytes": 348066,
+          "r2Key": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1600w.webp"
+        }
+      ],
+      "srcset": "paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-480w.webp 480w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-768w.webp 768w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1200w.webp 1200w, paintings/whispers-on-the-canvas/whispers-on-the-canvas-03-1600w.webp 1600w"
+    }
+  ]
+}

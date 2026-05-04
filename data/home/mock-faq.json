@@ -1,31 +1,39 @@
 {
   "sectionId": "faq",
   "eyebrow": "Frequently asked questions",
-  "headline": "Shipping, care, and custom orders",
+  "headline": "Commissions, shipping, and returns",
   "primaryAction": {
-    "label": "Plan a private event",
-    "href": "/private-events"
+    "label": "Discuss a commission",
+    "href": "/commissions"
   },
   "secondaryAction": {
-    "label": "Contact the atelier",
+    "label": "Contact the artist",
     "href": "/contact"
   },
   "items": [
     {
-      "question": "Are your ceramics dishwasher safe?",
-      "answer": "Yes. All tableware is fired for durability and is dishwasher safe, though hand washing helps preserve surface finish over many years."
+      "question": "Can I commission a custom artwork?",
+      "answer": "Yes! I love creating artwork that is unique for people's homes. Get in touch to discuss colours, sizes, prices, and ideas that you have."
     },
     {
-      "question": "Do you make custom restaurant sets?",
-      "answer": "Yes. We collaborate on shape, size, and glaze direction for hospitality projects. Lead time depends on quantity and testing rounds."
+      "question": "When will my artwork arrive?",
+      "answer": "If you ordered an original artwork, a courier will be booked and you will receive tracking information via email. You can expect your artwork to arrive within 7-15 days. Paintings are packaged and sent by hand, so please be patient."
     },
     {
-      "question": "How long does shipping take?",
-      "answer": "In-stock pieces usually ship within 3-5 business days. International delivery windows vary by destination and customs handling."
+      "question": "How will my artwork arrive?",
+      "answer": "If you ordered an original artwork, it will arrive carefully packed between corflute sheets, bubble wrapped, and secured with packing tape."
     },
     {
-      "question": "Can I visit the studio?",
-      "answer": "Studio visits are available by appointment. We host small weekly slots where you can view current and upcoming work."
+      "question": "Can I receive a refund if I change my mind?",
+      "answer": "Please measure up and choose carefully, as unfortunately I cannot offer a refund."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Yes! Get in touch to receive a shipping quote to your country of origin."
+    },
+    {
+      "question": "I own a store and would love to stock your work.",
+      "answer": "Thank you so much, let's discuss your idea. Contact me via Instagram or email."
     }
   ]
 }

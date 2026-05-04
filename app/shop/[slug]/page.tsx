@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { notFound } from "next/navigation"
 import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 import { ProductDetailBlock, type ProductDetail } from "@/components/pages/shop/product-detail-block"
+import { generatedPaintingProductDetails } from "@/data/shop/generated-painting-products"
 import productDetails from "@/data/shop/mock-product-details.json"
 
 type ProductDetailsData = {
@@ -13,8 +14,16 @@ type DetailPageProps = {
 }
 
 function getProductBySlug(slug: string) {
+  return getAllProducts().find((item) => item.slug === slug)
+}
+
+function getAllProducts() {
   const data = productDetails as ProductDetailsData
-  return data.items.find((item) => item.slug === slug)
+  return [...data.items, ...generatedPaintingProductDetails]
+}
+
+export function generateStaticParams() {
+  return getAllProducts().map((product) => ({ slug: product.slug }))
 }
 
 export async function generateMetadata({ params }: DetailPageProps): Promise<Metadata> {

@@ -1,7 +1,7 @@
 {
   "eyebrow": "Studio Shop",
-  "headline": "Ceramics designed for everyday rituals and quiet statements.",
-  "description": "Our current edit blends tableware, sculptural forms, and limited seasonal drops, each finished by hand in the atelier.",
+  "headline": "Ceramics and paintings designed for quiet statements.",
+  "description": "Our current edit blends tableware, sculptural forms, original canvases, and limited seasonal drops, each finished by hand in the atelier.",
   "primaryAction": { "label": "Browse all products", "href": "#shop-grid" },
   "secondaryAction": { "label": "Gift cards", "href": "/gift-card" }
 }

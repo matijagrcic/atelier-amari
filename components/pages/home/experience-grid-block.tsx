@@ -42,7 +42,13 @@ export function ExperienceGridBlock() {
           >
             <CardContent className="pt-6">
               <AspectRatio ratio={4 / 3} className="relative overflow-hidden rounded-xl">
-                <Image src={item.image.src} alt={item.image.alt} fill className="object-cover" />
+                <Image
+                  src={item.image.src}
+                  alt={item.image.alt}
+                  fill
+                  sizes="(min-width: 1024px) 25vw, (min-width: 768px) 50vw, 100vw"
+                  className="object-cover"
+                />
               </AspectRatio>
             </CardContent>
             <CardHeader className="space-y-3">

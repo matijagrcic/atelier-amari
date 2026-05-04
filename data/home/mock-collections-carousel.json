@@ -1,8 +1,8 @@
 {
   "sectionId": "collections",
   "eyebrow": "Collections",
-  "headline": "Made in series, finished by hand",
-  "description": "Each collection is developed around a tactile story. Surfaces vary subtly from piece to piece, so no two objects are identical.",
+  "headline": "Paintings and objects, finished by hand",
+  "description": "Each collection is developed around a tactile story. Clay, canvas, pigment, and glaze vary subtly from piece to piece, so no two works are identical.",
   "primaryAction": {
     "label": "Shop all pieces",
     "href": "/shop"
@@ -13,43 +13,43 @@
   },
   "items": [
     {
+      "name": "Awakening",
+      "material": "Original paintings",
+      "description": "Layered abstract works with luminous movement, soft contrast, and a quiet sense of arrival.",
+      "pieceCount": "4 works",
+      "image": {
+        "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
+        "alt": "Awakening abstract painting with layered color and soft movement."
+      }
+    },
+    {
       "name": "Coastal Stone",
       "material": "Speckled stoneware",
-      "description": "Minimal silhouettes with carved rims and ash-white glaze.",
+      "description": "Minimal ceramic silhouettes with carved rims and ash-white glaze.",
       "pieceCount": "12 pieces",
       "image": {
-        "src": "/images/home/collection-coastal.svg",
-        "alt": "Stoneware bowls with speckled clay and soft matte glaze."
+        "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-02-1200w.webp",
+        "alt": "Studio ceramics arranged with natural materials in the atelier."
       }
     },
     {
-      "name": "Evening Clay",
-      "material": "Iron-rich clay body",
-      "description": "Low, warm forms designed for shared meals and long dinners.",
-      "pieceCount": "16 pieces",
+      "name": "Azure Dreams",
+      "material": "Original paintings",
+      "description": "Blue-toned canvas studies with atmospheric depth and coastal light.",
+      "pieceCount": "6 works",
       "image": {
-        "src": "/images/home/collection-evening.svg",
-        "alt": "Warm clay plates stacked with subtle tonal glazes."
-      }
-    },
-    {
-      "name": "Salt Air",
-      "material": "Porcelain blend",
-      "description": "Thin-walled cups and bowls with soft, translucent glaze depth.",
-      "pieceCount": "10 pieces",
-      "image": {
-        "src": "/images/home/collection-salt.svg",
-        "alt": "Porcelain cups with translucent glaze and clean silhouettes."
+        "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
+        "alt": "Azure Dreams painting with blue abstract layers and airy movement."
       }
     },
     {
       "name": "Studio Archive",
       "material": "Mixed reclaimed clay",
-      "description": "One-off experimental objects from glaze and kiln tests.",
+      "description": "One-off experimental objects and studies from glaze, pigment, and firing tests.",
       "pieceCount": "Limited originals",
       "image": {
-        "src": "/images/home/collection-archive.svg",
-        "alt": "Experimental ceramic pieces with layered glaze textures."
+        "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
+        "alt": "Atelier archive pieces and artworks displayed together."
       }
     }
   ]

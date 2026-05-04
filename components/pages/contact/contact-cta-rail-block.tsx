@@ -27,20 +27,30 @@ export function ContactCtaRailBlock() {
         headline={data.headline}
         description={data.description}
       />
-      <div className="grid gap-5 md:grid-cols-2">
-        {data.actions.map((item) => (
-          <Card key={item.id} className="border-border/70 bg-card/60">
-            <CardHeader>
-              <CardTitle className="font-serif text-3xl">{item.title}</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <p className="text-sm text-muted-foreground">{item.description}</p>
-              <Button asChild variant="outline" className="rounded-full">
-                <a href={item.action.href}>{item.action.label}</a>
-              </Button>
-            </CardContent>
-          </Card>
-        ))}
+      <div className="grid gap-5 md:grid-cols-3">
+        {data.actions.map((item) => {
+          const isExternal = item.action.href.startsWith("http")
+
+          return (
+            <Card key={item.id} className="border-border/70 bg-card/60">
+              <CardHeader>
+                <CardTitle className="font-serif text-3xl">{item.title}</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <p className="text-sm text-muted-foreground">{item.description}</p>
+                <Button asChild variant="outline" className="rounded-full">
+                  <a
+                    href={item.action.href}
+                    target={isExternal ? "_blank" : undefined}
+                    rel={isExternal ? "noopener noreferrer" : undefined}
+                  >
+                    {item.action.label}
+                  </a>
+                </Button>
+              </CardContent>
+            </Card>
+          )
+        })}
       </div>
     </SectionShell>
   )

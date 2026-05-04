@@ -66,6 +66,7 @@ export function HeroBlock() {
             src={data.featureCard.image.src}
             alt={data.featureCard.image.alt}
             fill
+            sizes="(min-width: 768px) 40vw, 100vw"
             className="object-cover"
             priority
           />

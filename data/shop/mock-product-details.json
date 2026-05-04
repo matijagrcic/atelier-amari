@@ -309,6 +309,303 @@
         { "src": "/images/home/collection-archive.svg", "alt": "Minimal ceramic forms displayed in sequence" }
       ],
       "stripePaymentLink": "https://buy.stripe.com/throwing-jar"
+    },
+    {
+      "slug": "awakening-canvas",
+      "name": "Awakening Canvas",
+      "category": "Painting",
+      "price": "EUR 420",
+      "shortDescription": "An original abstract painting with luminous layers and a quiet sense of movement.",
+      "longDescription": "Awakening is a one-of-a-kind canvas built through translucent color, gesture, and soft contrast. The work brings a calm focal point to intimate rooms, reading differently as the light changes through the day.",
+      "highlights": [
+        "Original one-of-a-kind painting",
+        "Layered abstract composition",
+        "Ready for local studio pickup or protected shipping",
+        "Signed by the artist"
+      ],
+      "facts": [
+        { "label": "Category", "value": "Painting" },
+        { "label": "Medium", "value": "Mixed media on canvas" },
+        { "label": "Edition", "value": "Original work" }
+      ],
+      "purchaseOptions": [
+        { "label": "Format", "value": "Canvas" },
+        { "label": "Edition", "value": "Original" },
+        { "label": "Dispatch", "value": "5-7 business days" }
+      ],
+      "includes": [
+        "Original painting",
+        "Certificate of authenticity",
+        "Protective art packaging"
+      ],
+      "importantInformation": [
+        "This is a one-of-a-kind studio work.",
+        "Color may vary slightly between screens and the original painting.",
+        "Sold as a single artwork checkout."
+      ],
+      "editorialSections": [
+        {
+          "title": "Layered Surface",
+          "body": "The painting is developed through transparent passes of pigment, allowing earlier marks to remain visible beneath the final surface.",
+          "image": {
+            "src": "/atelier-amari/paintings/awakening/awakening-02-1200w.webp",
+            "alt": "Detail view of Awakening painting with layered abstract marks"
+          }
+        },
+        {
+          "title": "Studio Pairing",
+          "body": "Its quiet movement pairs naturally with ceramic vessels, textured linens, and warm plaster interiors.",
+          "image": {
+            "src": "/atelier-amari/paintings/awakening/awakening-03-1200w.webp",
+            "alt": "Awakening painting from the same abstract series"
+          }
+        }
+      ],
+      "relatedItems": [
+        {
+          "title": "Azure Dreams Study",
+          "meta": "Painting",
+          "price": "EUR 360",
+          "image": {
+            "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
+            "alt": "Azure Dreams original painting in layered blue tones"
+          },
+          "href": "/shop/azure-dreams-study"
+        },
+        {
+          "title": "Shoreline Dinner Set",
+          "meta": "Tableware",
+          "price": "EUR 148",
+          "image": {
+            "src": "/images/home/collection-coastal.svg",
+            "alt": "Blue grey ceramic dinner set arranged on linen"
+          },
+          "href": "/shop/shoreline-set"
+        },
+        {
+          "title": "Flower Scent Canvas",
+          "meta": "Painting",
+          "price": "EUR 390",
+          "image": {
+            "src": "/atelier-amari/paintings/flower-scent/flower-scent-04-1200w.webp",
+            "alt": "Flower Scent original painting with layered floral color"
+          },
+          "href": "/shop/flower-scent-canvas"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
+          "alt": "Awakening original abstract painting with soft layered color"
+        },
+        {
+          "src": "/atelier-amari/paintings/awakening/awakening-02-1200w.webp",
+          "alt": "Second view of the Awakening painting series"
+        },
+        {
+          "src": "/atelier-amari/paintings/awakening/awakening-04-1200w.webp",
+          "alt": "Awakening painting with luminous abstract movement"
+        }
+      ],
+      "stripePaymentLink": "https://buy.stripe.com/awakening-canvas"
+    },
+    {
+      "slug": "azure-dreams-study",
+      "name": "Azure Dreams Study",
+      "category": "Painting",
+      "price": "EUR 360",
+      "shortDescription": "A blue-toned painting study with atmospheric depth and coastal stillness.",
+      "longDescription": "Azure Dreams Study explores water, air, and horizon through layered blue pigment. The work is calm but expressive, designed for collectors who want a quiet focal piece with visible handwork.",
+      "highlights": [
+        "Original blue abstract study",
+        "Atmospheric layered pigment",
+        "Intimate collector scale",
+        "Signed by the artist"
+      ],
+      "facts": [
+        { "label": "Category", "value": "Painting" },
+        { "label": "Medium", "value": "Mixed media on canvas" },
+        { "label": "Edition", "value": "Original work" }
+      ],
+      "purchaseOptions": [
+        { "label": "Format", "value": "Canvas study" },
+        { "label": "Edition", "value": "Original" },
+        { "label": "Dispatch", "value": "5-7 business days" }
+      ],
+      "includes": [
+        "Original painting study",
+        "Certificate of authenticity",
+        "Protective art packaging"
+      ],
+      "importantInformation": [
+        "This painting is sold as a single original work.",
+        "Frame is not included unless arranged by commission.",
+        "Color may vary slightly between screens and the original painting."
+      ],
+      "editorialSections": [
+        {
+          "title": "Coastal Palette",
+          "body": "The blue palette is built in soft veils, holding the feeling of water and shadow without becoming literal.",
+          "image": {
+            "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-04-1200w.webp",
+            "alt": "Azure Dreams painting detail with blue layered pigment"
+          }
+        },
+        {
+          "title": "Quiet Placement",
+          "body": "The scale works well above a console, beside handmade vessels, or as part of a small salon-style wall.",
+          "image": {
+            "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-05-1200w.webp",
+            "alt": "Azure Dreams painting from the same abstract series"
+          }
+        }
+      ],
+      "relatedItems": [
+        {
+          "title": "Awakening Canvas",
+          "meta": "Painting",
+          "price": "EUR 420",
+          "image": {
+            "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
+            "alt": "Awakening original abstract painting with soft layered color"
+          },
+          "href": "/shop/awakening-canvas"
+        },
+        {
+          "title": "Evening Vessel",
+          "meta": "Decor",
+          "price": "EUR 92",
+          "image": {
+            "src": "/images/home/collection-evening.svg",
+            "alt": "Dark sculptural ceramic vase on pedestal"
+          },
+          "href": "/shop/evening-vase"
+        },
+        {
+          "title": "Throwing Jar",
+          "meta": "Storage",
+          "price": "EUR 76",
+          "image": {
+            "src": "/images/home/process-throwing.svg",
+            "alt": "Potter shaping a lidded vessel on the wheel"
+          },
+          "href": "/shop/throwing-jar"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
+          "alt": "Azure Dreams original painting in layered blue tones"
+        },
+        {
+          "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-04-1200w.webp",
+          "alt": "Second Azure Dreams painting with atmospheric blue layers"
+        },
+        {
+          "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-06-1200w.webp",
+          "alt": "Azure Dreams painting detail with blue coastal color"
+        }
+      ],
+      "stripePaymentLink": "https://buy.stripe.com/azure-dreams-study"
+    },
+    {
+      "slug": "flower-scent-canvas",
+      "name": "Flower Scent Canvas",
+      "category": "Painting",
+      "price": "EUR 390",
+      "shortDescription": "A floral abstract canvas with soft chromatic layers and an intimate scale.",
+      "longDescription": "Flower Scent Canvas carries the suggestion of petals, fragrance, and garden light through abstract mark-making. The palette is expressive without losing the calm restraint of the atelier edit.",
+      "highlights": [
+        "Original floral abstract painting",
+        "Soft chromatic layers",
+        "One-of-a-kind studio work",
+        "Signed by the artist"
+      ],
+      "facts": [
+        { "label": "Category", "value": "Painting" },
+        { "label": "Medium", "value": "Mixed media on canvas" },
+        { "label": "Edition", "value": "Original work" }
+      ],
+      "purchaseOptions": [
+        { "label": "Format", "value": "Canvas" },
+        { "label": "Edition", "value": "Original" },
+        { "label": "Dispatch", "value": "5-7 business days" }
+      ],
+      "includes": [
+        "Original painting",
+        "Certificate of authenticity",
+        "Protective art packaging"
+      ],
+      "importantInformation": [
+        "This is a one-of-a-kind studio work.",
+        "Frame is not included unless arranged by commission.",
+        "Sold as a single artwork checkout."
+      ],
+      "editorialSections": [
+        {
+          "title": "Floral Memory",
+          "body": "Rather than illustrating flowers directly, the work translates scent and color into layered abstract movement.",
+          "image": {
+            "src": "/atelier-amari/paintings/flower-scent/flower-scent-03-1200w.webp",
+            "alt": "Flower Scent painting with expressive floral color layers"
+          }
+        },
+        {
+          "title": "Warm Interior Note",
+          "body": "Its color works as a soft counterpoint to stoneware, raw linen, and other quiet natural materials.",
+          "image": {
+            "src": "/atelier-amari/paintings/flower-scent/flower-scent-05-1200w.webp",
+            "alt": "Flower Scent painting from the same floral abstract series"
+          }
+        }
+      ],
+      "relatedItems": [
+        {
+          "title": "Awakening Canvas",
+          "meta": "Painting",
+          "price": "EUR 420",
+          "image": {
+            "src": "/atelier-amari/paintings/awakening/awakening-01-1200w.webp",
+            "alt": "Awakening original abstract painting with soft layered color"
+          },
+          "href": "/shop/awakening-canvas"
+        },
+        {
+          "title": "Azure Dreams Study",
+          "meta": "Painting",
+          "price": "EUR 360",
+          "image": {
+            "src": "/atelier-amari/paintings/azure-dreams/azure-dreams-03-1200w.webp",
+            "alt": "Azure Dreams original painting in layered blue tones"
+          },
+          "href": "/shop/azure-dreams-study"
+        },
+        {
+          "title": "Shoreline Dinner Set",
+          "meta": "Tableware",
+          "price": "EUR 148",
+          "image": {
+            "src": "/images/home/collection-coastal.svg",
+            "alt": "Blue grey ceramic dinner set arranged on linen"
+          },
+          "href": "/shop/shoreline-set"
+        }
+      ],
+      "gallery": [
+        {
+          "src": "/atelier-amari/paintings/flower-scent/flower-scent-04-1200w.webp",
+          "alt": "Flower Scent original painting with layered floral color"
+        },
+        {
+          "src": "/atelier-amari/paintings/flower-scent/flower-scent-03-1200w.webp",
+          "alt": "Second Flower Scent painting with expressive floral movement"
+        },
+        {
+          "src": "/atelier-amari/paintings/flower-scent/flower-scent-05-1200w.webp",
+          "alt": "Flower Scent painting detail with soft chromatic layers"
+        }
+      ],
+      "stripePaymentLink": "https://buy.stripe.com/flower-scent-canvas"
     }
   ]
 }
