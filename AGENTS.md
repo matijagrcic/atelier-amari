@@ -1,4 +1,4 @@
-# Atelier Amari Agent Guide
+# Atelier A'mari Agent Guide
 
 This file defines the project conventions for all future work in this repo.
 Follow these guidelines without re-asking.

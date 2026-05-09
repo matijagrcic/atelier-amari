@@ -5,7 +5,7 @@ import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
   title: "Blog",
-  description: "Stories, studio notes, and ceramic inspiration from Atelier Amari.",
+  description: "Stories, studio notes, and ceramic inspiration from Atelier A'mari.",
   robots: { index: false, follow: false },
 }
 

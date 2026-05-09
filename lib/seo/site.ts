@@ -1,8 +1,8 @@
 export const siteConfig = {
-  name: "Atelier Amari",
-  shortName: "Atelier Amari",
-  defaultTitle: "Atelier Amari | Handcrafted Ceramics and Original Paintings",
-  titleTemplate: "%s | Atelier Amari",
+  name: "Atelier A'mari",
+  shortName: "Atelier A'mari",
+  defaultTitle: "Atelier A'mari | Handcrafted Ceramics and Original Paintings",
+  titleTemplate: "%s | Atelier A'mari",
   description:
     "Ceramic atelier offering creative Paint & Sip workshops and a warm studio experience in Karlovac.",
   url: "https://www.atelieramari.com",

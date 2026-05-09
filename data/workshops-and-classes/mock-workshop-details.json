@@ -2,7 +2,7 @@
   "items": [
     {
       "slug": "paint-and-sip-girl-friday",
-      "title": "Paint & Sip radionica (Girl Friday)",
+      "title": "Paint & Sip radionica",
       "format": "Radionica",
       "level": "Početnice / svi nivoi",
       "duration": "2 sata",
@@ -20,7 +20,7 @@
       "facts": [
         { "label": "Trajanje", "value": "2 sata" },
         { "label": "Datum i vrijeme", "value": "[upiši datum] u [upiši vrijeme]" },
-        { "label": "Lokacija", "value": "A’MARI Atelier, Karlovac" }
+        { "label": "Lokacija", "value": "Atelier A'mari, Karlovac" }
       ],
       "purchaseOptions": [
         { "label": "Trajanje", "value": "2 sata" },
@@ -86,7 +86,7 @@
           "body": "Slikat ćeš, usporiti i dobiti prostor za kreativnost bez uspoređivanja. Atmosfera je lagana, ženstvena i podržavajuća, s dovoljno vodstva da se osjećaš sigurno od prvog poteza.",
           "image": {
             "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
-            "alt": "Atmosfera u A’MARI Atelieru za opuštenu paint and sip radionicu"
+            "alt": "Atmosfera u Atelier A'mari za opuštenu paint and sip radionicu"
           }
         },
         {
@@ -94,7 +94,7 @@
           "body": "Pomažem ti s kompozicijom, bojama i detaljima, ali ne radimo kopiju bez duše. Baš zato svako platno izgleda posebno i nosi tvoj osobni trag.",
           "image": {
             "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-2400w.webp",
-            "alt": "Detalj kreativne atmosfere u A’MARI Atelieru"
+            "alt": "Detalj kreativne atmosfere u Atelier A'mari"
           }
         }
       ],
@@ -102,7 +102,7 @@
       "gallery": [
         {
           "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
-          "alt": "A’MARI Atelier prostor za Paint & Sip radionicu"
+          "alt": "Atelier A'mari prostor za Paint & Sip radionicu"
         }
       ],
       "ctaLabel": "Stripe Payment link uskoro",

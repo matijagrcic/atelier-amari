@@ -10,7 +10,7 @@ import { absoluteUrl, siteConfig, siteRoutes } from "@/lib/seo/site"
 
 const shopTitle = "Shop"
 const shopDescription =
-  "Browse handcrafted ceramics, original paintings, and studio editions from Atelier Amari."
+  "Browse handcrafted ceramics, original paintings, and studio editions from Atelier A'mari."
 
 export const metadata: Metadata = {
   title: shopTitle,
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     images: [
       {
         url: absoluteUrl(siteConfig.defaultOgImage),
-        alt: "Atelier Amari shop edit of ceramics and original paintings",
+        alt: "Atelier A'mari shop edit of ceramics and original paintings",
       },
     ],
   },

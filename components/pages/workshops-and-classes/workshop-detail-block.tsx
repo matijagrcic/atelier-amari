@@ -112,7 +112,6 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
             price={workshop.price}
             priceLabel={workshop.priceLabel}
             badge={workshop.format}
-            subBadge={workshop.level}
             shortDescription={workshop.shortDescription}
             purchaseOptions={purchaseOptions}
             ctaLabel={workshop.ctaLabel ?? "Reserve via Stripe"}

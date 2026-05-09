@@ -67,7 +67,7 @@ export function buildShopCollectionJsonLd(products: ProductDetail[], description
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "@id": `${shopUrl}#collection`,
-    name: "Shop Atelier Amari",
+    name: "Shop Atelier A'mari",
     description,
     url: shopUrl,
     isPartOf: { "@id": `${siteConfig.url}/#website` },

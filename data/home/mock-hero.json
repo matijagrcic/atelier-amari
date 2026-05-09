@@ -1,17 +1,17 @@
 {
-  "atelierName": "Atelier Amari",
+  "atelierName": "Atelier A'mari",
   "logo": {
     "src": "/atelier-amari/atelier-amari-logo-1200w.webp",
-    "alt": "Atelier Amari logo"
+    "alt": "Atelier A'mari logo"
   },
   "gallery": [
     {
       "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-03-2400w.webp",
-      "alt": "Atelier Amari art studio interior with paintings and creative materials."
+      "alt": "Atelier A'mari art studio interior with paintings and creative materials."
     },
     {
       "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1600w.webp",
-      "alt": "Atelier Amari studio detail with handmade artwork and warm natural textures."
+      "alt": "Atelier A'mari studio detail with handmade artwork and warm natural textures."
     }
   ]
 }

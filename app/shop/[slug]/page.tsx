@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: DetailPageProps): Promise<Met
   if (!product) {
     return {
       title: "Product Not Found",
-      description: "The requested Atelier Amari product could not be found.",
+      description: "The requested Atelier A'mari product could not be found.",
       robots: { index: false, follow: false },
     }
   }

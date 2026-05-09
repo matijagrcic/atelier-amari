@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     images: [
       {
         url: absoluteUrl(siteConfig.defaultOgImage),
-        alt: "Atelier Amari studio with artwork and handmade pieces",
+        alt: "Atelier A'mari studio with artwork and handmade pieces",
       },
     ],
     locale: siteConfig.locale,

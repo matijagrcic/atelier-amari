@@ -6,7 +6,7 @@ import { WorkshopsListBlock } from "@/components/pages/workshops-and-classes/wor
 
 export const metadata: Metadata = {
   title: "Paint & Sip Workshop",
-  description: "Paint & Sip radionica za žene u A’MARI Atelieru u Karlovcu.",
+  description: "Paint & Sip radionica za žene u Atelier A'mari u Karlovcu.",
 }
 
 export default function WorkshopsAndClassesPage() {

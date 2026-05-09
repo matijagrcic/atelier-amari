@@ -6,7 +6,7 @@ import { absoluteUrl, siteConfig, siteRoutes } from "@/lib/seo/site"
 
 const homeTitle = siteConfig.defaultTitle
 const homeDescription =
-  "Atelier Amari is a warm art studio for ceramics, painting, and creative gatherings."
+  "Atelier A'mari is a warm art studio for ceramics, painting, and creative gatherings."
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     images: [
       {
         url: absoluteUrl(siteConfig.defaultOgImage),
-        alt: "Atelier Amari studio with original paintings and creative materials",
+        alt: "Atelier A'mari studio with original paintings and creative materials",
       },
     ],
   },

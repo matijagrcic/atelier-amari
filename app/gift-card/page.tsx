@@ -6,7 +6,7 @@ import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 
 export const metadata: Metadata = {
   title: "Gift Cards",
-  description: "Gift creative studio moments with Atelier Amari gift cards and experiences.",
+  description: "Gift creative studio moments with Atelier A'mari gift cards and experiences.",
   robots: { index: false, follow: false },
 }
 

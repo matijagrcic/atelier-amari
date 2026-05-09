@@ -19,7 +19,7 @@ export function NavigationBlock() {
         <Link
           href="/"
           className="flex items-center gap-3 rounded-md transition-opacity hover:opacity-85 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-          aria-label="Go to Atelier Amari home page"
+          aria-label="Go to Atelier A'mari home page"
         >
           <span className="relative size-10 overflow-hidden rounded-full border border-border/70 bg-background/70">
             <Image
