@@ -8,6 +8,7 @@ import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 export const metadata: Metadata = {
   title: "Commissions",
   description: "Commission custom ceramic pieces for homes, gifts, and hospitality spaces.",
+  robots: { index: false, follow: false },
 }
 
 export default function CommissionsPage() {

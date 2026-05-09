@@ -3,12 +3,12 @@
   "eyebrow": "Studio process",
   "headline": "From clay body and canvas ground to final surface",
   "primaryAction": {
-    "label": "Commission a studio work",
-    "href": "/commissions"
+    "label": "View workshops",
+    "href": "/workshops-and-classes"
   },
   "secondaryAction": {
-    "label": "Join a workshop",
-    "href": "/workshops-and-classes"
+    "label": "Current Paint & Sip",
+    "href": "/workshops-and-classes/paint-and-sip-girl-friday"
   },
   "gallery": [
     {

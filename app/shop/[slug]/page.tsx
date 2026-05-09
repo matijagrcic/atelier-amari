@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: DetailPageProps): Promise<Met
     return {
       title: "Product Not Found",
       description: "The requested Atelier Amari product could not be found.",
+      robots: { index: false, follow: false },
     }
   }
 
@@ -33,6 +34,7 @@ export async function generateMetadata({ params }: DetailPageProps): Promise<Met
   return {
     title: product.name,
     description: product.shortDescription,
+    robots: { index: false, follow: false },
     alternates: {
       canonical: canonicalPath,
     },

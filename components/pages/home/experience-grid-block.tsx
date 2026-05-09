@@ -34,7 +34,7 @@ export function ExperienceGridBlock() {
         {data.description ? <p className="text-muted-foreground">{data.description}</p> : null}
       </div>
 
-      <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+      <div className="grid gap-5 sm:grid-cols-[repeat(auto-fit,minmax(18rem,1fr))]">
         {data.items.map((item, index) => (
           <Card
             key={item.id}

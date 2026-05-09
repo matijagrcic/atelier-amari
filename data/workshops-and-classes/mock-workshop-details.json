@@ -2,8 +2,8 @@
   "items": [
     {
       "slug": "paint-and-sip-girl-friday",
-      "title": "Paint & Sip Workshop (Girl Friday)",
-      "format": "Workshop",
+      "title": "Paint & Sip radionica (Girl Friday)",
+      "format": "Radionica",
       "level": "Početnice / svi nivoi",
       "duration": "2 sata",
       "schedule": "[upiši datum] u [upiši vrijeme]",
@@ -93,7 +93,7 @@
           "title": "Tvoj rad ostaje tvoj",
           "body": "Pomažem ti s kompozicijom, bojama i detaljima, ali ne radimo kopiju bez duše. Baš zato svako platno izgleda posebno i nosi tvoj osobni trag.",
           "image": {
-            "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-768w.webp",
+            "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-2400w.webp",
             "alt": "Detalj kreativne atmosfere u A’MARI Atelieru"
           }
         }
@@ -106,7 +106,6 @@
         }
       ],
       "ctaLabel": "Stripe Payment link uskoro",
-      "helperText": "Prijave će ići preko Stripe Payment linka. Zamijeni placeholder stvarnim Stripe linkom prije objave.",
       "stripePaymentLink": "#"
     }
   ]

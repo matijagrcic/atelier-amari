@@ -1,22 +1,20 @@
 {
   "sectionId": "cta",
-  "headline": "Bring a calmer material language to your table.",
-  "description": "Join our release notes for new drops, studio events, and custom commission openings.",
+  "eyebrow": "Aktualna radionica",
+  "headline": "Paint & Sip večer za kreativni reset.",
+  "description": "Dođi naslikati svoje prvo ili novo akrilno platno u opuštenoj, maloj grupi. Bez predznanja, bez pritiska - samo boje, glazba, čaša vina ili pića, lagane grickalice i vođenje korak po korak.",
+  "details": [
+    "2 sata",
+    "Mala grupa",
+    "Bez predznanja",
+    "Platno nosiš kući isti dan"
+  ],
+  "footnote": "Broj mjesta je ograničen i rezervacija je obavezna.",
   "actions": [
     {
-      "label": "Request custom work",
-      "href": "/commissions",
+      "label": "Vidi aktualnu radionicu",
+      "href": "/workshops-and-classes/paint-and-sip-girl-friday",
       "variant": "primary"
-    },
-    {
-      "label": "Workshops & classes",
-      "href": "/workshops-and-classes",
-      "variant": "secondary"
-    },
-    {
-      "label": "Private events",
-      "href": "/private-events",
-      "variant": "secondary"
     }
   ]
 }

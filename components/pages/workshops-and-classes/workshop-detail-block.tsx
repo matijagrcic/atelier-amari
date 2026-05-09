@@ -1,4 +1,3 @@
-import Link from "next/link"
 import {
   DetailAccordionSections,
   type DetailAccordionSection,
@@ -104,16 +103,10 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
 
   return (
     <section className="mx-auto w-full max-w-6xl px-6 py-10 md:py-14">
-      <Link
-        href="/workshops-and-classes"
-        className="mb-8 inline-flex text-xs uppercase tracking-[0.24em] text-muted-foreground transition-colors hover:text-foreground"
-      >
-        Natrag na radionice
-      </Link>
       <div className="grid items-start gap-8 lg:grid-cols-[minmax(0,1.15fr)_minmax(0,0.85fr)] lg:gap-12">
         <DetailMediaRail title={workshop.title} gallery={workshop.gallery} />
 
-        <aside className="lg:sticky lg:top-24">
+        <aside className="order-first lg:order-none lg:sticky lg:top-24">
           <DetailPurchasePanel
             title={workshop.title}
             price={workshop.price}
@@ -124,10 +117,7 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
             purchaseOptions={purchaseOptions}
             ctaLabel={workshop.ctaLabel ?? "Reserve via Stripe"}
             stripePaymentLink={workshop.stripePaymentLink}
-            helperText={
-              workshop.helperText ??
-              "Secure checkout in Stripe. Each workshop booking is a separate payment."
-            }
+            showStripeBadge
           />
         </aside>
       </div>

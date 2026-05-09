@@ -1,17 +1,12 @@
 {
   "atelierName": "Atelier Amari",
-  "tagline": "Hand-thrown stoneware",
-  "links": [
-    { "label": "Shop", "href": "/shop" },
-    { "label": "Workshops", "href": "/workshops-and-classes" },
-    { "label": "Gift Card", "href": "/gift-card" },
-    { "label": "Private Events", "href": "/private-events" },
-    { "label": "Blog", "href": "/blog" },
-    { "label": "About", "href": "/about" },
-    { "label": "Contact", "href": "/contact" }
-  ],
+  "logo": {
+    "src": "/atelier-amari/atelier-amari-logo-1200w.webp",
+    "alt": "Atelier Amari logo"
+  },
+  "links": [],
   "primaryAction": {
-    "label": "Commission a piece",
-    "href": "/commissions"
+    "label": "Vidi aktualnu radionicu",
+    "href": "/workshops-and-classes/paint-and-sip-girl-friday"
   }
 }

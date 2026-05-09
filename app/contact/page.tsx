@@ -7,6 +7,7 @@ import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 export const metadata: Metadata = {
   title: "Contact",
   description: "Get in touch with Atelier Amari for studio visits, commissions, and product inquiries.",
+  robots: { index: false, follow: false },
 }
 
 export default function ContactPage() {

@@ -4,7 +4,7 @@ export const siteConfig = {
   defaultTitle: "Atelier Amari | Handcrafted Ceramics and Original Paintings",
   titleTemplate: "%s | Atelier Amari",
   description:
-    "Ceramic atelier creating small-batch stoneware, original paintings, workshops, and commissions for contemporary homes.",
+    "Ceramic atelier offering creative Paint & Sip workshops and a warm studio experience in Karlovac.",
   url: "https://www.atelieramari.com",
   locale: "en",
   instagramUrl: "https://www.instagram.com/amari_atelier/",

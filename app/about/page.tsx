@@ -8,6 +8,7 @@ import { NavigationBlock } from "@/components/pages/shared/navigation-block"
 export const metadata: Metadata = {
   title: "About Me",
   description: "Learn more about Emina, her art, and the story behind her floral acrylic paintings.",
+  robots: { index: false, follow: false },
 }
 
 export default function AboutPage() {

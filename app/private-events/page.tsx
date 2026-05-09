@@ -7,6 +7,7 @@ import { PrivateEventsProcessBlock } from "@/components/pages/private-events/pri
 export const metadata: Metadata = {
   title: "Private Events",
   description: "Host intimate ceramic events, team workshops, and celebrations in our studio.",
+  robots: { index: false, follow: false },
 }
 
 export default function PrivateEventsPage() {

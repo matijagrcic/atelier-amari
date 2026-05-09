@@ -3,6 +3,6 @@
   "eyebrow": "Privatne radionice",
   "title": "Želiš radionicu za cure ili team building?",
   "description": "Javi se za privatni Paint & Sip termin, rođendan, večer s prijateljicama ili kreativno druženje za tim.",
-  "primaryAction": { "label": "Dogovori privatni termin", "href": "/private-events" },
-  "secondaryAction": { "label": "Kontakt", "href": "/contact" }
+  "primaryAction": { "label": "Vidi aktualnu radionicu", "href": "/workshops-and-classes/paint-and-sip-girl-friday" },
+  "secondaryAction": { "label": "Nazad na radionice", "href": "/workshops-and-classes" }
 }

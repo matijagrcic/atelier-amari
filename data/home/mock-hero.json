@@ -1,27 +1,17 @@
 {
-  "eyebrow": "Ceramic and painting atelier in Karlovac",
-  "headline": "Quiet objects and expressive canvases for everyday beauty.",
-  "description": "We craft small-batch ceramics and original paintings in a sunlit studio shaped by clay, pigment, and slow coastal rituals.",
-  "primaryAction": {
-    "label": "Shop the collection",
-    "href": "/shop"
+  "atelierName": "Atelier Amari",
+  "logo": {
+    "src": "/atelier-amari/atelier-amari-logo-1200w.webp",
+    "alt": "Atelier Amari logo"
   },
-  "secondaryAction": {
-    "label": "Commission a piece",
-    "href": "/commissions"
-  },
-  "highlights": [
-    "Original paintings",
-    "Small-batch ceramics",
-    "Studio-made editions"
-  ],
-  "featureCard": {
-    "title": "Spring Studio Edit",
-    "subtitle": "Ceramics, paintings, and one-off works",
-    "description": "A seasonal edit of hand-built vessels, expressive canvases, and studio pieces inspired by Adriatic light.",
-    "image": {
-      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-1200w.webp",
-      "alt": "Sunlit Atelier Amari studio with art materials and finished works."
+  "gallery": [
+    {
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-03-2400w.webp",
+      "alt": "Atelier Amari art studio interior with paintings and creative materials."
+    },
+    {
+      "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1600w.webp",
+      "alt": "Atelier Amari studio detail with handmade artwork and warm natural textures."
     }
-  }
+  ]
 }

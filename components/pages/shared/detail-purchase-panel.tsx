@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 
@@ -16,7 +17,8 @@ type DetailPurchasePanelProps = {
   purchaseOptions: PurchaseOption[]
   ctaLabel: string
   stripePaymentLink: string
-  helperText: string
+  helperText?: string
+  showStripeBadge?: boolean
 }
 
 export function DetailPurchasePanel({
@@ -30,6 +32,7 @@ export function DetailPurchasePanel({
   ctaLabel,
   stripePaymentLink,
   helperText,
+  showStripeBadge = false,
 }: DetailPurchasePanelProps) {
   const isPlaceholderLink = !stripePaymentLink || stripePaymentLink === "#"
 
@@ -80,7 +83,18 @@ export function DetailPurchasePanel({
         </Button>
       )}
 
-      <p className="text-xs leading-relaxed text-muted-foreground">{helperText}</p>
+      {showStripeBadge ? (
+        <div className="flex justify-center pt-1">
+          <Image
+            src="/atelier-amari/Powered by Stripe - black.svg"
+            alt="Powered by Stripe"
+            width={150}
+            height={34}
+            unoptimized
+          />
+        </div>
+      ) : null}
+      {helperText ? <p className="text-xs leading-relaxed text-muted-foreground">{helperText}</p> : null}
     </div>
   )
 }

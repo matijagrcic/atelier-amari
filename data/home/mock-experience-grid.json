@@ -2,7 +2,7 @@
   "sectionId": "experiences",
   "eyebrow": "Atelier Experiences",
   "headline": "Choose how you want to engage with the studio.",
-  "description": "From clay sessions to canvas commissions, each path is shaped with the same material care and editorial finish.",
+  "description": "Start with a guided studio session shaped around material care, calm pacing, and an editorial finish.",
   "items": [
     {
       "id": "workshops",
@@ -14,42 +14,6 @@
       "image": {
         "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-02-1200w.webp",
         "alt": "Atelier workspace prepared for a hands-on ceramics and painting session."
-      }
-    },
-    {
-      "id": "private-events",
-      "title": "Private Events",
-      "description": "Host team gatherings and celebrations with a premium creative studio experience.",
-      "href": "/private-events",
-      "badge": "Group Events",
-      "ctaLabel": "Plan an event",
-      "image": {
-        "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-03-1200w.webp",
-        "alt": "Creative atelier setting arranged for a private group event."
-      }
-    },
-    {
-      "id": "gift-card",
-      "title": "Gift Card",
-      "description": "Give access to classes, original works, and bespoke studio moments.",
-      "href": "/gift-card",
-      "badge": "Gifting",
-      "ctaLabel": "Gift the atelier",
-      "image": {
-        "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-04-1200w.webp",
-        "alt": "Giftable studio objects and artworks arranged in warm natural light."
-      }
-    },
-    {
-      "id": "commissions",
-      "title": "Commissions",
-      "description": "Collaborate on custom ceramics, original paintings, and site-specific studio work.",
-      "href": "/commissions",
-      "badge": "Bespoke",
-      "ctaLabel": "Start a commission",
-      "image": {
-        "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-05-1200w.webp",
-        "alt": "Atelier materials and finished pieces for custom commission work."
       }
     }
   ]

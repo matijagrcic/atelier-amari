@@ -23,7 +23,7 @@
       "title": "Atelier Experience",
       "value": "EUR 240",
       "description": "A premium private making session for two, with studio hospitality.",
-      "action": { "label": "Gift experience", "href": "/private-events" }
+      "action": { "label": "Contact the atelier", "href": "/contact" }
     }
   ]
 }

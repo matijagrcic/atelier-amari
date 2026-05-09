@@ -15,6 +15,7 @@ const shopDescription =
 export const metadata: Metadata = {
   title: shopTitle,
   description: shopDescription,
+  robots: { index: false, follow: false },
   alternates: {
     canonical: siteRoutes.shop,
   },
