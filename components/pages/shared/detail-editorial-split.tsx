@@ -8,9 +8,10 @@ export type EditorialSplitSection = {
 
 type DetailEditorialSplitProps = {
   sections: EditorialSplitSection[]
+  centerContent?: boolean
 }
 
-export function DetailEditorialSplit({ sections }: DetailEditorialSplitProps) {
+export function DetailEditorialSplit({ sections, centerContent = false }: DetailEditorialSplitProps) {
   if (!sections.length) {
     return null
   }
@@ -22,9 +23,13 @@ export function DetailEditorialSplit({ sections }: DetailEditorialSplitProps) {
           key={`${section.title}-${index}`}
           className="grid gap-6 rounded-2xl border border-border/70 bg-card/60 p-5 md:grid-cols-2 md:p-6"
         >
-          <div className={`space-y-3 ${index % 2 === 1 ? "md:order-2" : ""}`}>
+          <div
+            className={`${centerContent ? "flex min-h-full flex-col items-center justify-center space-y-3 text-center" : "space-y-3"} ${
+              index % 2 === 1 ? "md:order-2" : ""
+            }`}
+          >
             <h2 className="font-serif text-2xl">{section.title}</h2>
-            <p className="text-sm leading-relaxed text-muted-foreground">{section.body}</p>
+            {section.body ? <p className="text-sm leading-relaxed text-muted-foreground">{section.body}</p> : null}
           </div>
           <div className={`relative overflow-hidden rounded-xl ${index % 2 === 1 ? "md:order-1" : ""}`}>
             <div className="relative aspect-[4/3] w-full">

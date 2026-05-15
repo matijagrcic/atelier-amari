@@ -2,14 +2,14 @@
   "items": [
     {
       "slug": "paint-and-sip-girl-friday",
-      "title": "Paint & Sip radionica",
+      "title": "Paint & Sip night",
       "format": "Radionica",
       "level": "Početnice / svi nivoi",
       "duration": "2 sata",
-      "schedule": "[upiši datum] u [upiši vrijeme]",
-      "price": "35 €",
+      "schedule": "05.06.2026. u 19:00",
+      "price": "40 €",
       "priceLabel": "Cijena po osobi",
-      "shortDescription": "Dođi napraviti svoje prvo ili novo akrilno platno u atmosferi koja ti vraća mir i energiju.",
+      "shortDescription": "",
       "longDescription": "Ovo je radionica za žene koje žele kreativni reset - bez pritiska, bez “ja to ne znam”, samo boje, glazba i onaj osjećaj: “ovo mi je baš trebalo.” Savršeno za početnice i sve koje žele jedno moderno, opušteno večernje iskustvo. Kroz radionicu koristimo jednostavne tehnike akrila: blendanje, slojeve, teksture i mini trikove za “wow” efekt, a ja te vodim korak po korak. Ti ćeš slikati, opustiti se i otići doma s gotovim radom.",
       "highlights": [
         "Bez predznanja - vodim te od prve boje do zadnjeg poteza",
@@ -19,13 +19,16 @@
       ],
       "facts": [
         { "label": "Trajanje", "value": "2 sata" },
-        { "label": "Datum i vrijeme", "value": "[upiši datum] u [upiši vrijeme]" },
+        {
+          "label": "Datum i vrijeme",
+          "value": "05.06.2026. u 19:00"
+        },
         { "label": "Lokacija", "value": "Atelier A'mari, Karlovac" }
       ],
       "purchaseOptions": [
         { "label": "Trajanje", "value": "2 sata" },
-        { "label": "Datum", "value": "[upiši datum]" },
-        { "label": "Vrijeme", "value": "[upiši vrijeme]" },
+        { "label": "Datum", "value": "05.06.2026." },
+        { "label": "Vrijeme", "value": "19:00" },
         { "label": "Lokacija", "value": "Ul. Ambroza Vranyczanya 6, Karlovac" }
       ],
       "includes": [
@@ -40,37 +43,24 @@
         {
           "id": "workshop-description",
           "title": "Opis radionice",
-          "content": "Dođi napraviti svoje prvo ili novo akrilno platno u atmosferi koja ti vraća mir i energiju. Ovo je radionica za žene koje žele kreativni reset - bez pritiska, bez “ja to ne znam”, samo boje, glazba i onaj osjećaj: “ovo mi je baš trebalo.” Savršeno za početnice i sve koje žele jedno moderno, opušteno večernje iskustvo."
-        },
-        {
-          "id": "workshop-highlights",
-          "title": "Što ćemo raditi",
+          "content": [
+            "Ugodna večer uz čašu vina i slikanje vlastitog umjetničkog rada na platnu akrilnim bojama. Savršeno za parove, prijatelje ili svakoga tko želi opuštenu i kreativnu večer.",
+            "Nije potrebno prethodno iskustvo - vodit ću te kroz svaki korak, od prvih poteza kistom do završnih detalja koji će tvom platnu dati osobni pečat. Tijekom radionice istraživat ćeš boje, teksture i različite tehnike slikanja akrilom u opuštenoj i inspirativnoj atmosferi."
+          ],
           "items": [
-            "Koristimo jednostavne tehnike akrila: blendanje, slojeve i teksture.",
-            "Učiš mini trikove za “wow” efekt bez osjećaja pritiska.",
-            "Vodim te korak po korak, od odabira prve boje do zadnjeg poteza.",
-            "Pomažem ti s kompozicijom, bojama i detaljima, ali tvoj rad ostaje tvoj."
-          ]
-        },
-        {
-          "id": "workshop-includes",
-          "title": "Radionica uključuje",
-          "items": [
-            "Platno, akrilne boje, kistove i sav pribor.",
-            "Čašu vina ili pića i lagane grickalice.",
-            "Vođeno slikanje u opuštenoj atmosferi.",
-            "Gotov rad koji nosiš kući isti dan."
+            "Cijena uključuje sve - platno koje nosiš kući isti dan, sav slikarski materijal i piće.",
+            "Radionica traje 2 sata.",
+            "Mala grupa, prilagođeno početnicima.",
+            "Broj mjesta je ograničen (za privatne evente ili grupne radionice slobodno me kontaktiraj).",
+            "Cijena je izražena po osobi."
           ]
         },
         {
           "id": "workshop-important",
           "title": "Važne informacije",
           "items": [
-            "Nije potrebno predznanje.",
-            "Cijena uključuje sve materijale i vođenje.",
-            "Radionica je opuštena i u maloj grupi.",
-            "Broj mjesta je ograničen i rezervacija je obavezna.",
-            "Ako želiš privatnu radionicu za cure ili team building, javi se."
+            "Vodim te korak po korak, od odabira prve boje do zadnjeg poteza.",
+            "Pomažem ti s kompozicijom, bojama i detaljima, ali tvoj rad ostaje tvoj."
           ]
         }
       ],
@@ -82,16 +72,16 @@
       ],
       "editorialSections": [
         {
-          "title": "Opuštena večer za sebe",
-          "body": "Slikat ćeš, usporiti i dobiti prostor za kreativnost bez uspoređivanja. Atmosfera je lagana, ženstvena i podržavajuća, s dovoljno vodstva da se osjećaš sigurno od prvog poteza.",
+          "title": "Slikaj. Uspori.",
+          "body": "",
           "image": {
             "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-07-1200w.webp",
             "alt": "Atmosfera u Atelier A'mari za opuštenu paint and sip radionicu"
           }
         },
         {
-          "title": "Tvoj rad ostaje tvoj",
-          "body": "Pomažem ti s kompozicijom, bojama i detaljima, ali ne radimo kopiju bez duše. Baš zato svako platno izgleda posebno i nosi tvoj osobni trag.",
+          "title": "Daj si prostor za kreativnost.",
+          "body": "",
           "image": {
             "src": "/atelier-amari/atelier-amari-art-studio/atelier-amari-01-2400w.webp",
             "alt": "Detalj kreativne atmosfere u Atelier A'mari"

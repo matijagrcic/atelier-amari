@@ -122,8 +122,8 @@ export function WorkshopDetailBlock({ workshop }: WorkshopDetailBlockProps) {
       </div>
 
       <div className="mt-10 space-y-8">
-        <DetailAccordionSections sections={accordionSections} />
-        <DetailEditorialSplit sections={editorialSections} />
+        <DetailAccordionSections sections={accordionSections} collapsible={false} />
+        <DetailEditorialSplit sections={editorialSections} centerContent />
         <DetailRelatedItems heading="Možda će ti se svidjeti" items={relatedItems} />
       </div>
     </section>

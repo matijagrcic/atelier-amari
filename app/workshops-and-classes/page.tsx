@@ -1,13 +1,13 @@
-import type { Metadata } from "next"
-import { NavigationBlock } from "@/components/pages/shared/navigation-block"
-import { WorkshopsCtaBlock } from "@/components/pages/workshops-and-classes/workshops-cta-block"
-import { WorkshopsHeroBlock } from "@/components/pages/workshops-and-classes/workshops-hero-block"
-import { WorkshopsListBlock } from "@/components/pages/workshops-and-classes/workshops-list-block"
+import type { Metadata } from "next";
+import { NavigationBlock } from "@/components/pages/shared/navigation-block";
+import { WorkshopsCtaBlock } from "@/components/pages/workshops-and-classes/workshops-cta-block";
+import { WorkshopsHeroBlock } from "@/components/pages/workshops-and-classes/workshops-hero-block";
+import { WorkshopsListBlock } from "@/components/pages/workshops-and-classes/workshops-list-block";
 
 export const metadata: Metadata = {
   title: "Paint & Sip Workshop",
-  description: "Paint & Sip radionica za žene u Atelier A'mari u Karlovcu.",
-}
+  description: "Paint & Sip night za žene u Atelier A'mari u Karlovcu.",
+};
 
 export default function WorkshopsAndClassesPage() {
   return (
@@ -21,5 +21,5 @@ export default function WorkshopsAndClassesPage() {
         </div>
       </main>
     </div>
-  )
+  );
 }
