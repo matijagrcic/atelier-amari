@@ -54,14 +54,6 @@
             "Broj mjesta je ograničen (za privatne evente ili grupne radionice slobodno me kontaktiraj).",
             "Cijena je izražena po osobi."
           ]
-        },
-        {
-          "id": "workshop-important",
-          "title": "Važne informacije",
-          "items": [
-            "Vodim te korak po korak, od odabira prve boje do zadnjeg poteza.",
-            "Pomažem ti s kompozicijom, bojama i detaljima, ali tvoj rad ostaje tvoj."
-          ]
         }
       ],
       "importantInformation": [
