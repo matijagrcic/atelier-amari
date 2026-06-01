@@ -7,7 +7,7 @@
       "level": "Početnice / svi nivoi",
       "duration": "2 sata",
       "schedule": "05.06.2026. u 19:00",
-      "price": "40 €",
+      "price": "30 €",
       "priceLabel": "Cijena po osobi",
       "shortDescription": "",
       "longDescription": "Ovo je radionica za žene koje žele kreativni reset - bez pritiska, bez “ja to ne znam”, samo boje, glazba i onaj osjećaj: “ovo mi je baš trebalo.” Savršeno za početnice i sve koje žele jedno moderno, opušteno večernje iskustvo. Kroz radionicu koristimo jednostavne tehnike akrila: blendanje, slojeve, teksture i mini trikove za “wow” efekt, a ja te vodim korak po korak. Ti ćeš slikati, opustiti se i otići doma s gotovim radom.",
@@ -87,8 +87,8 @@
           "alt": "Atelier A'mari prostor za Paint & Sip radionicu"
         }
       ],
-      "ctaLabel": "Stripe Payment link uskoro",
-      "stripePaymentLink": "#"
+      "ctaLabel": "Rezerviraj svoje mjesto",
+      "stripePaymentLink": "https://buy.stripe.com/8x26oI1GueYUgdLeTzcQU0p"
     }
   ]
 }

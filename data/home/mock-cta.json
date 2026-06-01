@@ -15,6 +15,11 @@
       "label": "Vidi aktualnu radionicu",
       "href": "/workshops-and-classes/paint-and-sip-girl-friday",
       "variant": "primary"
+    },
+    {
+      "label": "Prati me na Instagramu",
+      "href": "https://www.instagram.com/amari_atelier/",
+      "variant": "secondary"
     }
   ]
 }

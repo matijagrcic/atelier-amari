@@ -57,14 +57,19 @@ export function CtaBlock() {
               Rezerviraj mjesto
             </p>
             <div className="flex flex-col gap-3 pt-4">
-              {data.actions.map((action) =>
-                action.variant === "primary" ? (
+              {data.actions.map((action) => {
+                const isExternal = action.href.startsWith("http")
+                const externalProps = isExternal
+                  ? { target: "_blank", rel: "noopener noreferrer" }
+                  : {}
+
+                return action.variant === "primary" ? (
                   <Button
                     key={action.href}
                     asChild
                     className="group h-14 justify-between rounded-full bg-foreground px-6 text-base text-background shadow-lg hover:bg-foreground/90"
                   >
-                    <a href={action.href}>
+                    <a href={action.href} {...externalProps}>
                       <span>{action.label}</span>
                       <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" />
                     </a>
@@ -76,10 +81,12 @@ export function CtaBlock() {
                     variant="outline"
                     className="h-12 rounded-full border-foreground/30 bg-transparent"
                   >
-                    <a href={action.href}>{action.label}</a>
+                    <a href={action.href} {...externalProps}>
+                      {action.label}
+                    </a>
                   </Button>
-                ),
-              )}
+                )
+              })}
             </div>
             {data.footnote ? (
               <p className="pt-4 text-sm leading-relaxed text-foreground/65">{data.footnote}</p>
